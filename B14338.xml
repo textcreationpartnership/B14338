@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo sermons preached at VVhite-hall in Lent, March 3. 1625· and Februarie 20. 1626. By Henry King, D.D. one of his Maiesties chaplaines in ordinarie</title>
+            <author>King, Henry, 1592-1669.</author>
+         </titleStmt>
+         <extent>Approx. 96KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14338</idno><idno type="EEBO-CITATION">99856430</idno>
+  <idno type="VID">177036</idno>
+  <idno type="EEBO-PROQUEST">2240860343</idno>
+  <idno type="STC">STC 14971</idno>
+  <idno type="STC">ESTC S121245</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856430e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 761:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo sermons preached at VVhite-hall in Lent, March 3. 1625· and Februarie 20. 1626. By Henry King, D.D. one of his Maiesties chaplaines in ordinarie</title>
+                  <author>King, Henry, 1592-1669.</author>
+               </titleStmt>
+               <extent>[4], 45, [3], 34, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Hauiland,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A sermon preached at VVhite-hall in Lent 1626. February 20" has separate dated title page and pagination; register is continuous.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177036:1"/>
+            <pb facs="tcp:177036:1"/>
+            <p>TWO SERMONS PREACHED AT WHITE-HALL IN Lent, March 3. 1625. And Februarie 20. 1626.</p>
+            <p>BY <hi>Henry King,</hi> D. D. one of his Maiesties <hi>Chaplaines in Ordinarie.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by IOHN HAVILAND, 1627.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177036:2"/>
+            <pb facs="tcp:177036:2"/>
+            <head>TO THE SACRED MAIESTIE OF MY Soueraigne Lord and Ma<g ref="char:EOLhyphen"/>ster, King CHARLES.</head>
+            <opener>
+               <salute>Most Gratious Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O inuite you to this cold seruice, is to bid you to losse, and to pra<g ref="char:EOLhyphen"/>ctise part of that trouble vpon your Eye, which hath already exercised your Eare. Jf it appeare an importu<g ref="char:EOLhyphen"/>nitie, J dare not excuse my selfe, but humbly sue for Pardon. Which my owne cleare purpose, and your Boun<g ref="char:EOLhyphen"/>teous
+<pb facs="tcp:177036:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177036:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177036:4"/>Inclination assures me, you will not denie; When your Maiestie pleases to consider, J doe but restore what in the intention and Course of my seruice was Yours before. Nor might J presume to communicate it, vnlesse J obtained Leaue from you, and it had first passed your Princely Hand. Then, as you haue euer beene my Gratious Master, vouchsafe to dignifie by your acceptance the meane endeuours of him, who, though he erre in point of discretion, will ne<g ref="char:EOLhyphen"/>uer erre in the Zeale and Dutie which becomes</p>
+            <closer>
+               <signed>Your Maiesties most loyall and humbly deuoted Seruant, HEN. KING.</signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="sermon">
+                  <pb n="1" facs="tcp:177036:4"/>
+                  <head>A SERMON PREACHED at White-Hall in Lent. 1625.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>Ecclesiastes 12.1.</bibl>
+                        <p>
+                           <hi>Remember now thy Creatour in the dayes of thy youth.</hi>
+                        </p>
+                     </q>
+                  </epigraph>
+                  <argument>
+                     <p>
+                        <seg rend="decorInit">M</seg>Y Diuision is plainly thus:
+<list>
+                           <item n="1">1 A <hi>Monition</hi> to quicken the Memory, <hi>Remember.</hi>
+                           </item>
+                           <item n="2">2 The <hi>Obiect</hi> presented to it, the <hi>Creatour.</hi>
+                           </item>
+                           <item n="3">3 The <hi>Application</hi> of that Obiect, <hi>Thy Cre<g ref="char:EOLhyphen"/>atour.</hi>
+                           </item>
+                           <item n="4">4 The <hi>Distance</hi> at which wee must take him, <hi>Youth.</hi>
+                           </item>
+                           <pb n="2" facs="tcp:177036:5"/>
+                           <item n="5">5 The <hi>Light</hi> by which we best may view this Obiect, <hi>In the daies of thy youth.</hi>
+                           </item>
+                           <item n="6">6 The <hi>Time</hi> which hastes to bring vs home and set vs neere vnto God, <hi>Now.</hi>
+                           </item>
+                        </list>
+                     </p>
+                  </argument>
+                  <div n="1" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> I wonder why <hi>Tertullian</hi> was so stiffe and peremptory in that assertion of his,
+<note place="margin">
+                           <hi>Remember. Tertul. lib. de Anima. cap.</hi> 23.</note>
+                        <hi>Ani<g ref="char:EOLhyphen"/>mam obliuionis capacem non cedam, That the soule could not forget;</hi> holding <hi>Plato</hi> pa<g ref="char:EOLhyphen"/>radoxicall for affirming it could and did. For my part, I thinke <hi>Plato</hi> spake no para<g ref="char:EOLhyphen"/>dox but plaine truth; since amongst all the curious Caskets of Nature wherein the secrets of Art and Knowledge are lockt vp, there is not any so loose, so false a Cabinet as the <hi>Heart;</hi> nor in the whole masse of Creation is there so thanklesse, so forget<g ref="char:EOLhyphen"/>ting a Creature as <hi>Man.</hi> Who began early to practize his ingratitude, and that hee might iustifie the Prophets complaint which charges <hi>him with rebellion from the wombe,</hi> made himselfe perfect in the lessons of forgetfulnesse from the first day he could remember he was made Man.</p>
+                     <p>It hath beene knowne that some old
+<pb n="3" facs="tcp:177036:5"/>Persons haue liued so long that they haue outgon their reckoning, outliued the com<g ref="char:EOLhyphen"/>putation of their time, not being capable of so much Arithmeticke as to say how old they were. Which faile of memory is par<g ref="char:EOLhyphen"/>donable in such relikes and ruines of Na<g ref="char:EOLhyphen"/>ture, whose pergnant imperfections haue dispensed with their vnderstandings and gi<g ref="char:EOLhyphen"/>uen them now a priuiledge to dote. But how shall we excuse, or indeed how thinke cha<g ref="char:EOLhyphen"/>ritably of Man? who in his best state, in the freshnesse of his youth, and vigour of his intellectuall faculties reuolted from his creation. For whereas a little before, God in the <hi>reasonable Soule</hi> had aduanced his owne <hi>Colours,</hi> imprinted his owne <hi>Image,</hi>
+                        <note place="margin">
+                           <hi>Bern. ser. Paru.</hi> 1.</note> and for a richer testimony of his loue, <hi>Creauit quandam Trinitatem ad imaginem suam</hi> (as <hi>Bernard</hi> hath it) gaue him leaue to weare the sacred mystery of the Trinity as an En<g ref="char:EOLhyphen"/>signe &amp; badge of that high Order vnto w<seg rend="sup">ch</seg> his Maker intended him, in his Soules three faculties, consisting of Vnderstanding, Will, and Memory; yet for all this,
+<note place="margin">Bern. ib.</note>
+                        <hi>Cecidit ab illa pulchrâ Trinitate in quandam contra<g ref="char:EOLhyphen"/>riam
+<pb n="4" facs="tcp:177036:6"/>&amp; foedam Trinitatem,</hi> he willingly de<g ref="char:EOLhyphen"/>faced and blurred the glorious Image of his Maker, and recoiling from his obedi<g ref="char:EOLhyphen"/>ence, exchanged those three purer faculties wherein the blessed Trinity was at first pourtraied for a confused masse of imper<g ref="char:EOLhyphen"/>fections; his Memory became, like him<g ref="char:EOLhyphen"/>selfe, perfidious and impotent; his Know<g ref="char:EOLhyphen"/>ledge darke and besotted; his Will peruerse and most corrupt.</p>
+                     <p>Who then is able to wonder enough at his disloialty, or speake his falshood in so high an Accent as it deserues? who forfei<g ref="char:EOLhyphen"/>ted all his titles to Happinesse in lesse time than the readiest tongue can relate it. That when he was new from the Mint and hand of his Composer, the Articles betwixt God &amp; him for his Allegeance not yet fully dry, himselfe scarce warme in the possession of the World then giuen him, flew off from his Allegeance, and with such speedy pre<g ref="char:EOLhyphen"/>cipitate violence, that he left but very few houres betwixt his creation and his fall.</p>
+                     <p>In the morning of the sixt day was Man made,
+<note place="margin">Gen. 1.31.</note> and before the euening of that same
+<pb n="5" facs="tcp:177036:6"/>day had he, vpō the Deuils short parley, sur<g ref="char:EOLhyphen"/>rendred vp his innocence &amp; libertie, quite sold away his Patent, the priuiledges of his birth, and at that scornefull rate wherewith we purchase the loue of children,
+<note place="margin">Gen. 3.6.</note>
+                        <hi>for an Ap<g ref="char:EOLhyphen"/>ple.</hi> For this is euident out of the Text; <hi>In the coole of the day God walked in the Garden,</hi>
+                        <note place="margin">Vers. 8.</note> and hauing receiued the confession of his guilt, <hi>cast him from thence,</hi>
+                        <note place="margin">Vers. 23.</note> making the same light a witnesse of his admission into Para<g ref="char:EOLhyphen"/>dise, and his expulsion.</p>
+                     <p>So that his happinesse was but like a wa<g ref="char:EOLhyphen"/>king dreame, which vanished before his bed-time; or like a shadow, in the mor<g ref="char:EOLhyphen"/>ning with him, at euening behinde him, past and forgotten.</p>
+                     <p>How much more happie are other crea<g ref="char:EOLhyphen"/>tures in their deformities, than Man in all his perfections! It is a kinde of comfort which deformitie hath, that it cannot im<g ref="char:EOLhyphen"/>paire, but may enioy that being without the enuy of any, or danger of growing worse, so cannot wee, who are not yet at the bottome of our miserie, but still in dan<g ref="char:EOLhyphen"/>ger of falling lower. How well were it for
+<pb n="6" facs="tcp:177036:7"/>Man-kinde, if we might glorie in that infir<g ref="char:EOLhyphen"/>mitie which beasts may doe, they cannot be sayd to haue lost what they neuer had, nor to forget what they neuer had organs to remember. We had a great dealelesse sin to answer for, could we say so too. Man once had what he now hath lost, and for default of a little memorie at the first, hath taught vs to forget wee might haue beene happie. And therefore (saith the Psalmist) <hi>Man being in honour had no vnderstanding,</hi>
+                        <note place="margin">Psal. 49.12.</note>
+                        <hi>but was compared to the beasts that perish:</hi> Nay, it had beene well if he had not sunke below that meane comparison. In the Prophet <hi>Esay</hi> God iustifies the gratitude and knowledge of the verie beasts aboue mans:
+<note place="margin">Esay 1.3.</note>
+                        <hi>The oxe knoweth his owner, but my people would not know, nor owne, nor remem<g ref="char:EOLhyphen"/>ber me that made them.</hi>
+                     </p>
+                     <p>Certainly, were our memories as strong as are our sins, were we as retentiue of Gods great fauours, as we are of the slightest in<g ref="char:EOLhyphen"/>iuries which affront vs, there were no need of precepts to quicken our <hi>Remembrance,</hi> but rather of drowzie Opiats or Mandra<g ref="char:EOLhyphen"/>gora's,
+<pb n="7" facs="tcp:177036:7"/>to dull and stupifie the braine that workes too strongly vpon the apprehensi<g ref="char:EOLhyphen"/>on of a wrong. There would be no vse of Tutors to instruct vs in the Art of Memo<g ref="char:EOLhyphen"/>rie, but we should cry as <hi>Themistocles</hi> some<g ref="char:EOLhyphen"/>times did to that famous Artist, who vn<g ref="char:EOLhyphen"/>dertooke to teach him that Art, <hi>Mallem ob<g ref="char:EOLhyphen"/>liuisci doceres.</hi> I had rather thou wouldest reade some Lectures of Obliuion to mee, that thou couldest teach me to forget, for there be many things that I remember too well.</p>
+                     <p>Mans nature is a wondrous master<g ref="char:EOLhyphen"/>peece of peruersnesse, a mettall not to bee wrought vpon by soft and easie wayes. He that thinkes by laying the obligation of a good turne vpon vs, to make vs remember him, takes the wrong course. We are not so soone apt to forget any, as those who haue done best for vs, nor is there any so cer<g ref="char:EOLhyphen"/>taine meanes to make vs <hi>Remember,</hi> as by doing vs some vnkindnesse or hurt. Wee write the benefits we receiue in water, they leaue no tracke behinde them longer than the verie doing; but for our iniuries, wee
+<pb n="8" facs="tcp:177036:8"/>print them in capitall letters, <hi>that hee that runs may reade them,</hi>
+                        <q>—<hi>Scribunt in marmore laesi.</hi>
+                        </q> We write them in Marble with points of Daggers for Pens, and in such Inke as <hi>Dra<g ref="char:EOLhyphen"/>coes</hi> lawes were writ in, <hi>Bloud.</hi> By such fearfull Charters as these, doe too many contentious spirits amongst vs hold their wrongs.</p>
+                     <p>Pardon the speech, I thinke if God had not done so much good for our soules as he hath, we should better haue remembred, beene more mindfull of him. Our Sauiour askt the Iewes,
+<note place="margin">Ioh. 10.32.</note>
+                        <hi>for which of his good workes they ston'd him?</hi> Certainly we expell God from our thoughts and memories for no other quarrell but this, his good deeds. A<g ref="char:EOLhyphen"/>ny crosse by him throwne vpon vs, awakes the slumbring faculties of our soules, <hi>Vexa<g ref="char:EOLhyphen"/>tio dat intellectum:</hi> like a warning-peece dis<g ref="char:EOLhyphen"/>charged at Sea, it makes vs stoope and come in,
+<note place="margin">Psal. 85.7.</note>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>In the day of my trouble I sought vnto thee.</hi>
+                     </p>
+                     <p>Our hearts are tough and stubborne as the Adamant: and as nothing but the dust
+<pb n="9" facs="tcp:177036:8"/>of the Diamond can cut or shape it, so nothing but our owne Dust, Miserie, and Affliction can cut our hard hearts in<g ref="char:EOLhyphen"/>to any forme of duty or obedience to our Maker.</p>
+                     <p>With what strange eyes doth man looke, that sees cleerest in an Eclipse, when God frownes vpon him? and vnto whom the puddled troubled waters of aduersitie are the best perspectiues to shew him God? How frowardly doe wee combine against our selues? We shut vp our apprehensions, yet wee vnderstand; wee winke, yet thus blind-fold we see God against our wils. We know not well how to remember him, and yet wee know worse how to forget him; for euerie thing wee meet discouers him, and euerie creature without our enquirie doth not onely giue vs cause to <hi>Remember,</hi> but in visible demonstrations makes vs see the <hi>Creatour.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> INdeed <hi>Mundus nil nisi Deus reuelatus,</hi> The whole vniuerse is nothing else but an Euidence, a Reuelation of God,
+<note place="margin">Creatour.</note> euerie
+<pb n="10" facs="tcp:177036:9"/>creature <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,
+<note place="margin">Basil.</note> a master in his Science, to instruct vs in the know<g ref="char:EOLhyphen"/>ledge of our Maker. Those numberlesse Atomes of dust on which wee tread, bid our feet as wee walke informe our heads of his infinitie: That hee whose power did compact this great bodie of the earth, and from the aggregation of those small A<g ref="char:EOLhyphen"/>tomes, made it grow into such a magni<g ref="char:EOLhyphen"/>tude, is no more to bee contained in finite numbers than is that dust.</p>
+                     <p>We cannot open our eyes to looke vp to <hi>Heauen,</hi> but at those casements we let in the confession of <hi>His Immensitie.</hi> When wee consider how many starres there fixt, are bigger farre than the Earth, and then againe lose our selues in the capacious extent of that Greater Bodie which containes those starres, we finde this <hi>Maxime</hi> to collect our scattered confounded apprehensions, that He who made those orbes, is farre more im<g ref="char:EOLhyphen"/>mense than is his worke.</p>
+                     <p>Nay, euen whilest we thinke all this, yet are not able to weild our owne imaginati<g ref="char:EOLhyphen"/>ons, to graspe, or circumscribe, or confine
+<pb n="11" facs="tcp:177036:9"/>in any limit of Sea or Land, of Earth or Heauen, our quicke thoughts, or giue a reason why they in an instant comprehend all these,
+<note place="margin">
+                           <hi>Bernard. Medi<g ref="char:EOLhyphen"/>tat.</hi> 1.</note>
+                        <hi>Ex me intelligo quàm incomprehen<g ref="char:EOLhyphen"/>sibilis sit Deus quoniàm me ipsum intelligere non possum, quem ipse fecit.</hi> From this our owne incapacitie and inabilitie to vnder<g ref="char:EOLhyphen"/>stand or know our selues, wee may learne how much more incomprehensible our Maker is. So that euerie thing is so full and pregnant in the proofe of its <hi>Creatour,</hi> that I may cry with <hi>Dauid,</hi>
+                        <note place="margin">Psal. 139.7.</note>
+                        <hi>Quò aufugiam à spiritu tuo? Whither shall I flie from Thee?</hi> In what darke corner of the world shall I hide my vnderstanding from taking notice of <hi>Thee?</hi> Not all the curtaines of night drawne a<g ref="char:EOLhyphen"/>bout the Soule, not all the thicke vailes of ignorance, darker and blacker than the night, not all the blinde retreats w<seg rend="sup">ch</seg> a guil<g ref="char:EOLhyphen"/>tie conscience hath sought, or w<seg rend="sup">ch</seg> is more, wisht for, to shrowd it selfe from the iustice of the Creator, are able to conceale our ap<g ref="char:EOLhyphen"/>prehensions so low that the confession of God shall not reach vs. <hi>Abyssus abyssum vo<g ref="char:EOLhyphen"/>cat,</hi> this is a theame which hath pierced as
+<pb n="12" facs="tcp:177036:10"/>low as the region of darknesse, which one Abysse hath related to another. The power of the <hi>Creatour,</hi> is a perpetuall Tradition, which day and night successiuely deliuer, <hi>One day telleth another,</hi>
+                        <note place="margin">Psal. 19.2.</note> and where the light failes, the night goes on and repeats those discoueries which day hath made. Iust as the Memorie wraps vp the speculations of the Phantasie, to deliuer them backe againe to vs, so oft as our vse requires them. The beames of the Sunne, which illuminate each part of the <hi>Horizon,</hi> stile <hi>Him the Fa<g ref="char:EOLhyphen"/>ther of light,</hi> and the moist collection of the clouds,
+<note place="margin">Psal. 65.11.</note> which <hi>drop downe fatnesse</hi> vpon our Land, speake <hi>Him</hi> the God of plentie. And if there be any so stiffe in their misbeleefe, that will not bee informed by these still Messengers that daily deliuer Him to our thoughts, He hath louder Heraulds to pro<g ref="char:EOLhyphen"/>claime Him, creatures that in a more exal<g ref="char:EOLhyphen"/>ted note voice the greatnes of their <hi>Creator.</hi> There is no Meteor, but in this argument, is able to be our Interpreter; the tempestuous winds, that <hi>breake the Cedars of Lebanon,</hi> the quicke eiaculations of the lightning, which
+<pb n="13" facs="tcp:177036:10"/>haue sometimes made the palaces of Ty<g ref="char:EOLhyphen"/>rants, the tombes and funerall piles of their Owners, haue euinced deafe Atheisme, and made it acknowledge the <hi>Creatour.</hi> By such boisterous messengers as these, did He once treat with the <hi>Iewes;</hi> for wee finde in the Gospell, that when all the miracles our Sa<g ref="char:EOLhyphen"/>uiour had wrought amongst them, nor his preaching vttered in such a Dialect, <hi>as neuer man spake in,</hi> could induce that stony-hear<g ref="char:EOLhyphen"/>ted people to beleeue his Deitie: The Ele<g ref="char:EOLhyphen"/>ments in disdaine to see their Maker made the subiect of their scorne and tyrannie, vn<g ref="char:EOLhyphen"/>dertooke the cause, and like victorious Ad<g ref="char:EOLhyphen"/>uocates, vanquished their incredulous ma<g ref="char:EOLhyphen"/>lice. The violent earth-quakes, that not onely affrighted the vpper world, but shooke the territories of death, leauing the <hi>graues</hi> without their Tenants, and dislod<g ref="char:EOLhyphen"/>ging the bodies of many Saints, which had long slept in the earth: the vnnaturall <hi>darknesse</hi> at Noone-day, the <hi>Rending of the vaile of the Temple,</hi> and aboue all, the Rhetoricke of thunder perswaded, nay extorted this confession from them,
+<note place="margin">Matth. 27.54.</note>
+                        <hi>Of a
+<pb n="14" facs="tcp:177036:11"/>truth this was the Sonne of GOD.</hi>
+                     </p>
+                     <p>Thus you see, that as God out of stones can create sonnes to <hi>Abraham,</hi> so from eue<g ref="char:EOLhyphen"/>rie peece of his creation, can he raise proofes of the <hi>Creatour.</hi> For all creatures are but his tongue to speake him, and the mutest of them all is articulate, hath a peculiar lan<g ref="char:EOLhyphen"/>guage to vtter Him,
+<note place="margin">Psal. 19.1.</note>
+                        <hi>Coeli enarrant;</hi> Heauen declares, and Earth reports, and all that moue in the one, or on the other, conuay the praise of Him that made them. There<g ref="char:EOLhyphen"/>fore the Psalmist summons all things ani<g ref="char:EOLhyphen"/>mate and inanimate,
+<note place="margin">Psal. 145.10.</note> all seasons, all condi<g ref="char:EOLhyphen"/>tions, Angels and Men, Light and Dark<g ref="char:EOLhyphen"/>nesse, Dragons and Deepes, Wormes and Vegetables, to praise the Lord. Indeed, the whole Vniuerse is but Gods <hi>Lieger-Booke,</hi> wherein his Acts are written, euerie <hi>Species</hi> is a line in that booke, euerie peculiar work a character for Man, to read his Maker. And sure with much delight are the most of vs willing to read this booke, the curiositie of the stile, and varietie of the storie, inuites all eyes to run it ouer.</p>
+                     <p>It is a most pleasing kinde of Geographie,
+<pb n="15" facs="tcp:177036:11"/>in this large Map of the created world, in the Celestiall and Terrestriall Globe, to contemplate the <hi>Creatour:</hi> But when wee come to apply this studie, to bring it neerer to our selues, considering God not in his exteriour creation, but as he is <hi>our Creatour,</hi> in this application of the Obiect most faile:</p>
+                     <q>Remember thy Creatour.</q>
+                  </div>
+                  <div n="3" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> IT is the generall vice of Man,
+<note place="margin">Thy Crea<g ref="char:EOLhyphen"/>tour. Bernard.</note> he loues not to bee acquainted with himselfe, <hi>Multi multa sciunt &amp; seipsos nesciunt, alios inspiciunt seipsos deserunt.</hi> Like an humerous Nouelist he trauels other Countries, but is not able to giue any account of his own: so censorious &amp; criticall in surueying others, that he is still finding or making faults in them, but so indulgent to himselfe hee will not peruse his owne brest. The Elephant doth not more abhorre the representment of himselfe in the cleare streame, than Man declines all those occasions which might present himselfe vnto himselfe. Choosing rather to liue disguised in those phantastick
+<pb n="16" facs="tcp:177036:12"/>dresses wherein flattery or selfe-loue attires him then to set his lookes by the true glasse of reason, which might make him vnder<g ref="char:EOLhyphen"/>stand himselfe. Like those old Impostors the Soothsaiers,
+<note place="margin">Seneca.</note>
+                        <hi>Peritiores in alienô iecore quam suô,</hi> better read in the fate of others than their owne. Wee loue alwaies to be studying other men, when wee should first begin at home, and make our owne bosomes our chiefe Libraries.</p>
+                     <p>Which is the maine cause that we are so raw, so ill studied in the knowledge of God, for (as <hi>S. Bernard</hi>) <hi>Quanto in cognitione mei procedo, tanto ad cognitionem Dei accedo,</hi> so much as I profit in the science of my selfe, so neere come I to the apprehension of my Maker.</p>
+                     <p>And yet it is not sufficient onely to know him, vnlesse thou knowest him the right, the best way. When the Philosopher would interpret himselfe what he meant by know<g ref="char:EOLhyphen"/>ing,
+<note place="margin">Aristotle.</note> he does it thus, <hi>Scire est per causam scire,</hi> the knowledge he meant reacht as farre as the discerning of the first cause: so the knowledge of God here vnderstood is not
+<pb n="17" facs="tcp:177036:12"/>shallow or superficiall, only as he is in a ge<g ref="char:EOLhyphen"/>nerall consideration the cause of things, a <hi>Creatour</hi> at large, but in a neerer depen<g ref="char:EOLhyphen"/>dance, <hi>Thy Cause, thy Creatour.</hi>
+                     </p>
+                     <p>True speculation doth not alwaies hunt obiects at the view, nor must it stop at the numerous effects wrought by the Creatour. This is rather to make thy selfe acquainted with the History of the Creation, than the knowledge of <hi>thy Creatour,</hi> but it must threed the whole Herd of the visible Crea<g ref="char:EOLhyphen"/>tures, and with a most intent vndiuerted eie trace &amp; follow <hi>him</hi> home vnto the place e<g ref="char:EOLhyphen"/>lected for his aboad, <hi>thy Soule</hi> w<seg rend="sup">ch</seg> is his <hi>Tem<g ref="char:EOLhyphen"/>ple.</hi>
+                        <note place="margin">Iohn 20.</note> And as <hi>Mary</hi> when she went in quest of her Sauiour, stopt not at the empty Monu<g ref="char:EOLhyphen"/>ment, but searches and followes <hi>him</hi> so farre that she discouered <hi>him</hi> vnder the disguise of the Gardner, and then casting her selfe at his feet takes possession of him, with this acclamation <hi>Rabboni,</hi> which is in effect as much as <hi>Thomas</hi> his gratulation, <hi>My Lord and my God:</hi>
+                        <note place="margin">Verse 28.</note> So when thou hast trackt him to his retiring Chamber within thy selfe, in the humblest postures of obedience falling
+<pb n="18" facs="tcp:177036:13"/>downe before <hi>Him.</hi> Apply Him to Thee, and deriue thy selfe from Him as the Au<g ref="char:EOLhyphen"/>thour of thy being, <hi>Thy Lord, Thy Creatour.</hi>
+                     </p>
+                     <p>To remember, or to know God Histori<g ref="char:EOLhyphen"/>cally, is a wilde vnusefull theory. If thou canst make no neerer approches than such, the deuils haue profited as farre in Faith as Thou: for <hi>Diaboli credunt,</hi> They beleeue the History of Christ: but such a beleefe doth no good at all. An Historicall faith which gazes on Christ, and takes Religion at a large distance, can neuer saue any.</p>
+                     <p>There must be a neerer scale to bring thee to heauen, <hi>Fides iustificans,</hi> a iustifying, a sauing faith, which consists in the laying hold on Christ, and applying his merits to thee.</p>
+                     <p>Was euer any fed by the report of a Feast? or had any consultation of Physitians such good successe that it could talke the Patient into health? The sight of meat nourisheth not me, nor can my wounds heale at the re<g ref="char:EOLhyphen"/>lation of other cures. Poisons and Anti<g ref="char:EOLhyphen"/>dotes haue all one effect vpon me, if not ministred; and a soueraigne Plaister is as
+<pb n="19" facs="tcp:177036:13"/>vnbeneficiall as a corsiue, if not applyed. <hi>Christ</hi> is both my <hi>Feeder,</hi> and my <hi>Meat,</hi> my <hi>Physitian,</hi> and my <hi>Remedy,</hi> if my <hi>Faith</hi> con<g ref="char:EOLhyphen"/>coct him not in the <hi>Sacrament,</hi> if it apply <hi>him</hi> not in my <hi>Penitence,</hi> my wretched soule lies vnder two dangers, of a Famine, and of Death.</p>
+                     <p>Woe vnto me if I know God onely by Report, my saluation will then proue as barren as my knowledge. Nor shall I en<g ref="char:EOLhyphen"/>ioy any thing of it beyond the name. I may heare of Heauen, but neuer must set foot within the gates. Religion and Faith are but aiery emptie sounds, if we possesse nothing of them beyond the words. The fruit of either consists in their Application. Tis true that Christ is the Sauiour of the World, but that an vselesse truth to me vn<g ref="char:EOLhyphen"/>lesse my Faith entitle me to Him, and by ap<g ref="char:EOLhyphen"/>propriating his worke be able to call him <hi>my Redeemer.</hi>
+                     </p>
+                     <p>Therefore <hi>Luther</hi> saies well that <hi>Meum,</hi>
+                        <note place="margin">
+                           <hi>Luther in Galat.</hi> 1. <hi>&amp;</hi> 3.</note> and <hi>Nostrum,</hi> these two words are the summe of all Christianity. In that Master<g ref="char:EOLhyphen"/>peece of prayer, the first thing our blessed
+<pb n="20" facs="tcp:177036:14"/>Sauiour taught his Disciples was to possesse themselues of God vnder the stile of <hi>Pater Noster, Our Father.</hi>
+                     </p>
+                     <p>In these stiles of <hi>Mine</hi> and <hi>Thine,</hi> is not onely the whole world owned and diui<g ref="char:EOLhyphen"/>ded, but the possession of all Gods promi<g ref="char:EOLhyphen"/>ses are deliuered and taken by those termes. And surely, if we were as apt to pleade our Titles to Heauen, as we are forward, though we wrestle with many troubles of suit to maintaine our right in Earth, we would not then so easily forfait the remembrance of God as we doe, but with <hi>Iacobs</hi> resolution hold him euen by force, making Him ours by all the ties which might confirme a iust possession.</p>
+                     <p>But we are better Stewards for the world then for God: with more thrift doe we hus<g ref="char:EOLhyphen"/>band our Estates then our Time alotted for our Repentance; with fuller intention doe wee pursue the businesse of Earth, than the great businesse of our Saluation. Either our thoughts are so taken vp in Temporall af<g ref="char:EOLhyphen"/>faires that there is no roome for God. Wee <hi>Remember</hi> not <hi>our Creatour</hi> at all, or not so
+<pb n="21" facs="tcp:177036:14"/>much, or not so oft, or not so early as wee ought; <hi>In luuentute, In the daies of our Youth, Remember thy Creatour in thy Youth.</hi>
+                     </p>
+                  </div>
+                  <div n="4" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                        <hi>YOuth</hi> is a headstrong vnruly thing,
+<note place="margin">In thy youth.</note> rash in his apprehensions, violent in the execution of his designes, that acts first, and considers after. It is an easie combustible matter, apt to take fire at eue<g ref="char:EOLhyphen"/>ry Traine. It is like Wax chafed and tem<g ref="char:EOLhyphen"/>pered by the excesse of heat raigning in the bloud to receiue the seales of damnation, and the impression of any sinne. It is like a beleagured Citie assailed on all sides, the Cinque Ports of his Senses so blockt vp with seuerall Temptations, that it is not safe for him to looke out at any of them. Oft-times euen with the Aire his Nostrils sucke vp the sauour of Death, and an har<g ref="char:EOLhyphen"/>monious witchcraft euer deludes his Eare, whispering to the abused Sense, that those Actions Ambition or Delight prompts him to, become his yeares.</p>
+                     <p>In so much that the many Inuasions vn<g ref="char:EOLhyphen"/>to which hee lies open and vnguarded,
+<pb n="22" facs="tcp:177036:15"/>might iustly require this Admonition to fortifie him.</p>
+                     <p>But yet it was not onely the contempla<g ref="char:EOLhyphen"/>tion of Youths pronenesse to doe ill which occasioned it, but as well the consideration of his abilities to serue his Maker, which moued the Wiseman thus farre before hand to be-speake Mans younger yeares for God. Trees that are newly planted beare the fai<g ref="char:EOLhyphen"/>rest and best relisht fruit, whereas a longer growth impaires them both in beauty and taste.</p>
+                     <p>
+                        <hi>Salomon</hi> himselfe, whose Sunne-rise was so glorious, &amp; in the morning of his reigne exprest so much maturity of iudgement in deciding Controuersies, so much deuotion to God, and receiued so much approbati<g ref="char:EOLhyphen"/>on from him againe, that whereas God did in a manner but soiourne with his Fathers in a Tent, he had the honour to make him his guest, and to raise a standing house, a Temple for him to dwell in; Yet for all this in the declining of his yeares hee set as in a blacke cloud, darkly and ingloriously. For he fell by the practise of his strange Wiues,
+<pb n="23" facs="tcp:177036:15"/>who alienated his heart not onely from the remembrance of what himselfe once was, but from his Creatour, who had aduanced his Throne aboue his Predecessours.</p>
+                     <p>It doth not therefore euer follow, that the discerning of age is better than youths. It may be sometimes more stayd, but neuer so cleere: a dimme sight lookes longer, and with more intention vpon its obiect, and wee know the reason, because it can take but a slow suruay of what it sees. Yet who will denie, but that he who weares his eyes in his head, sees better than one that weares them cased vp at his girdle. A spe<g ref="char:EOLhyphen"/>ctacle may present things bigger than they are, yet not so truely; for any addition vn<g ref="char:EOLhyphen"/>to truth is Imposture, as well as to detract from it. I may walke well enough by a candle enclosed in a Lanthorne, though I cannot reade by it so well as by a taper, whose free light is not immur'd or shadow<g ref="char:EOLhyphen"/>ed at all.</p>
+                     <p>Vndoubtedly <hi>Adams</hi> youth, I meane his morning and first part of his birth-day, was his best: and so I doe not say is, but
+<pb n="24" facs="tcp:177036:16"/>should be ours. Man should be then most Man, when the Ministers of Reason are most actiue, all which flag in his euening; and therefore as they decrease and lessen, so must hee. Hee that remembers God but a little in his youth by the rule of Nature, should quite forget him when hee is old, and then wee know the doome that fol<g ref="char:EOLhyphen"/>lowes,
+<note place="margin">
+                           <hi>August. Hom.</hi> 2. <hi>de Innocent.</hi>
+                        </note>
+                        <hi>Hâc animaduersione punitur peccator, vt moriens obliuiscatur sui, qui dum viueret oblitus est Dei.</hi> Hee that hath no remem<g ref="char:EOLhyphen"/>brance of God in his life time, shall be for<g ref="char:EOLhyphen"/>gotten by him in death. Hee that hath expended his young dayes in ryot, shall grow old in want. He that hath beene vn<g ref="char:EOLhyphen"/>fruitfull in the former part of his life, must needs be barren at his death. Nay (saith S. <hi>Cyprian) Fructus non inuenitur in arbore in quâ flos priùs non apparuerit.</hi> He that neuer blossom'd in youth, whose goodnesse ne<g ref="char:EOLhyphen"/>uer put forth into a flower, can neuer beare fruit when he is old. It is a great aduenture, for a man to let himselfe loose at One and Twentie, and thinke to reclaime, or take himselfe vp againe at Threescore: when de<g ref="char:EOLhyphen"/>cay
+<pb n="25" facs="tcp:177036:16"/>hath preuailed vpon him, and age cast as many wrinckles vpon his minde, as hee weares vpon his fore-head. To haue liued till Fiftie or Three-score, is a faire kalendar of time, but vertue doth not goe by that kalendar. To be old, is not to be wise, nor doth antiquitie leaue off the vices which it nourisht from youth, but oft change them into worse. Men vse not to be superannua<g ref="char:EOLhyphen"/>ted in sinne, rather their impotence so deep<g ref="char:EOLhyphen"/>ly seduces their iudgement in their latter times, that they giue their euils leaue to pre<g ref="char:EOLhyphen"/>scribe vpon them, and plead custome.</p>
+                     <p>I speake not this to credit youth, or dimi<g ref="char:EOLhyphen"/>nish age, or by any rude comparison to take from riper yeeres that reuerence which their goodnesse or experience may chal<g ref="char:EOLhyphen"/>lenge, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. I confesse, and must deliuer it from a more authen<g ref="char:EOLhyphen"/>ticke mouth,
+<note place="margin">Iob 12.2.</note> that <hi>Amongst the ancient is wis<g ref="char:EOLhyphen"/>dome.</hi> I do not here set youth as an emulous opposite to age contesting for prioritie, nor put the person of the young in balance with the old; I onely conferre Mans youn<g ref="char:EOLhyphen"/>ger time with his elder, his past dayes with
+<pb n="26" facs="tcp:177036:17"/>his present: which is no more in effect, but to compare man with himselfe, and such a comparison can disparage none.</p>
+                     <p>The scope of all I can say, discharges it selfe briefly vpon these two issues, to <hi>pre<g ref="char:EOLhyphen"/>pare youth,</hi> and to <hi>hasten age;</hi> as a <hi>Monitor</hi> to the one, and a <hi>Remembrancer</hi> to the other.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> Since ill customes grow strong vpon vs when we are weakest, I should aduise those that are the Guardians of youth, and whom the care of a family employes, to enter them betimes in the Schoole of Vertue, and sea<g ref="char:EOLhyphen"/>son these new vessels with Religion, know<g ref="char:EOLhyphen"/>ing that caskes long retaine the taste of their first liquors which were infused into them.</p>
+                     <p>Youth is a fertile garden, and though the heat and ranknesse of the soile bee apt to send vp many weeds, yet if well drest in the fore-hand of the yeere, it is capable of faire plantations. Manure it therefore be<g ref="char:EOLhyphen"/>times, whilst it is Spring, and it can looke vpon the drooping Autumne at a great di<g ref="char:EOLhyphen"/>stance. Such a plot to worke on, as is <hi>Man</hi> in his prime, such a <hi>planter</hi> as <hi>Paul,</hi> and such
+<pb n="27" facs="tcp:177036:17"/>a <hi>waterer</hi> as <hi>Apollos,</hi> would make it in short time <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, fit to be reaped by <hi>Angels,</hi>
+                        <note place="margin">1 Cor. 3.9.</note> and inn'd by <hi>God. Aristotle</hi> was so precise in admitting schollers to his Morall Le<g ref="char:EOLhyphen"/>ctures, that he would haue them past their wardship first, thinking their greene capaci<g ref="char:EOLhyphen"/>ties could not bee mellow enough for his <hi>Ethicks</hi> till Thirtie at least. But <hi>Christ</hi> our Master was of another minde;
+<note place="margin">Mar. 10.14.</note> his <hi>Sinite paruulos, &amp;c. Suffer little ones to come vnto me,</hi> encouraged parents and superuisors of children to enroll them in his Bands, his Church, before they were Masters of so much tongue as to name Christ. What though their narrow apprehensions can<g ref="char:EOLhyphen"/>not reach the high principles of faith? in a few yeeres, their vnderstandings eleuated with their statures, will grow vp to them, and the accession of a little time, digest those precepts which their infancie drew in, into the constant habit of a good life; not bowing themselues into any crooked postures of errour, nor forgetting that straight forme into which their first educa<g ref="char:EOLhyphen"/>tion wrought them. Therefore it was the
+<pb n="28" facs="tcp:177036:18"/>counsell of the wise King,
+<note place="margin">Prou. 22.6.</note>
+                        <hi>Traine vp a childe in the way he should goe in,</hi> at the doore &amp; en<g ref="char:EOLhyphen"/>trance of his life, <hi>and when he is old he shall not depart from it.</hi> Such happie blossomes in youth, are the prognostications of a rich Autumne. And the wise Heathen vpon the same ground, vndertakes for the felicitie of that state and those subiects, who enioy the blessing to haue a religious Prince, train'd vp in goodnesse from his infancie, set ouer them;
+<note place="margin">Seneca.</note>
+                        <hi>Nulla erit processu temporis difficilis clementia Principi, qui in annis pueri<g ref="char:EOLhyphen"/>libus didicit seruire pietati.</hi> I need not (though without flatterie I might) giue it English, nor would I speake it in any lower vulgar language, but onely the language of thanksgiuing to Almightie God, who hath placed vpon this <hi>Throne</hi> such a King, whose religion sprang vp with him from his mi<g ref="char:EOLhyphen"/>noritie, and whose riper yeeres exhibit this fruit, which each day fals plentifully into the obseruation of all that are about Him, That He is not only the Defender of Reli<g ref="char:EOLhyphen"/>gion, but morning and euening a Personall Actour in that seruice. Not only carefull to
+<pb n="29" facs="tcp:177036:18"/>enact sawes for the continuance of the Go<g ref="char:EOLhyphen"/>spell, but making Himselfe a Law and a glorious Example to his whole Court.</p>
+                     <p>Lord, thou that knowest this truth, and bearest mee record, I doe not mingle this as an officious Parenthesis in my Errand, rather to adde glory to my present Master, than to <hi>Thee, Neuer, O Neuer</hi> be vnmindfull of Him who so early and so oft <hi>Remembers Thee.</hi>
+                     </p>
+                     <p>I haue performed my first intent, in do<g ref="char:EOLhyphen"/>ing the office of a Remembrancer to the Elder, touching the Education of youth; This last concernes themseles. <milestone type="tcpmilestone" unit="unspecified" n="2"/> And it were a shame for those that vndertake the manage of others time, to be vnthrifty in their owne; to teach such as are submitted to their care to set out towards Heauen in the Morning, and yet themselues not fol<g ref="char:EOLhyphen"/>low till the Euening. I doe not preiudi<g ref="char:EOLhyphen"/>cate a gray-headed Penitence, though I must needs preferre the younger; that may be True, but this more Safe. I will hope wel of the one, yet beleeue better of the other.</p>
+                     <p>Winter voyages are very dangerous and
+<pb n="30" facs="tcp:177036:19"/>vncertaine, by reason of the North-winde which is then let loose vpon the Earth, and sure hee were not wise that might take his iourney in the Summer, yet by delaying his Opportunity would expose himselfe to the inclemency of the weather or fury of the Sea. Old Age is Mans Winter, witnesse that Snow which couers his head more cold and lasting than the <hi>Russian</hi> Frosts which scarcely the raging Dog starre can thaw. Youth is his Summer, wherein the better temper of the Aire, the cleerenesse of his skie, wherein are fewer clouds, lesse stormes to hinder his prospect to Heauen, promise a more successefull voyage. Ther<g ref="char:EOLhyphen"/>fore whilst wee can see our way, whilst those Pilots which direct the body are able to discouer that Shoare whereunto wee bend our course, whilst our Lights are not damm'd vp,
+<note place="margin">Eccles. 12.3.</note>
+                        <hi>nor they wax darke which looke out at our windowes,</hi> Let vs fix our Eyes, our Faith and Memory constantly both vpon the Iourney, and Him who is able to re<g ref="char:EOLhyphen"/>ward our trauell.</p>
+                     <p>God did not place the Memory in the
+<pb n="31" facs="tcp:177036:19"/>hinder part of the head, that wee should <hi>Re<g ref="char:EOLhyphen"/>member Him last;</hi> Nor did <hi>he</hi> place our last Day below all other Daies in our Alma<g ref="char:EOLhyphen"/>nacke, that wee should make it the farthest part of our Reckoning. By Christs rule our Last must be First, and as the end of euery Action is first in the intent of the Author, so should God be freshest in our Memory and our End alwaies in our sight.</p>
+                     <p>How can He that preceded all Time take it well at our hands to be put backe vnto the last minute of Time? How can He that requires the <hi>first-fruits</hi> of our Lands be content with the Latter haruest of our Liues? How can He that expects a sa<g ref="char:EOLhyphen"/>crifice of a sweet smell, but distaste our vn<g ref="char:EOLhyphen"/>sauory zeale, when for a fragrant flower, wee present him with a dry stalke and wi<g ref="char:EOLhyphen"/>thered leafe, the lees of our Age for the Vin<g ref="char:EOLhyphen"/>tage of our youth.</p>
+                     <p>
+                        <hi>They that seeke mee early,</hi>
+                        <note place="margin">Prou. 8.17.</note>
+                        <hi>shall finde mee</hi> (saith He) so if He bid vs come at morning our owne inexcusable neglect forfaits the appointment if wee goe not till the Eue<g ref="char:EOLhyphen"/>ning. Let vs therefore <hi>Preuent the morning
+<pb n="32" facs="tcp:177036:20"/>watch;</hi> not deferre our iourney till the du<g ref="char:EOLhyphen"/>sty Euening or Twilight of our Daies, but set forward whilst we are yet a few houres from the dawning of Time, and (as the A<g ref="char:EOLhyphen"/>postle speakes) <hi>Whilst wee can say to day.</hi>
+                        <note place="margin">Hebr. 3.15.</note>
+                     </p>
+                  </div>
+                  <div n="5" type="section">
+                     <head>In the dayes of thy Youth.</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> HOw euery attribute lessens and shortens life,
+<note place="margin">In the dayes.</note> to make vs vnderstand what shadowes and dreames of happinesse take vp our Time! Our whole Age, our Delights, and their Fruition as short as is the day, yea much shorter, since oft-times our Pleasures, our beloued sinnes, and their Repentance lodge but three Mi<g ref="char:EOLhyphen"/>nutes asunder.</p>
+                     <p>The Schoolemen distinguish the day in<g ref="char:EOLhyphen"/>to Temporall or Morall. By the Tempo<g ref="char:EOLhyphen"/>rall day they vnderstand that common Measure of Time, whose compasse is 24. houres.</p>
+                     <p>By the Morall day they meane our Pro<g ref="char:EOLhyphen"/>sperity,
+<note place="margin">Eccl. 12.2.</note> whilst our <hi>Sunne is not darkned;</hi> in which cleare vnclouded Time wee are
+<pb n="33" facs="tcp:177036:20"/>most apt to forget God.
+<note place="margin">2 Chron. 12.1.</note> As it is said of <hi>Re<g ref="char:EOLhyphen"/>hoboam,</hi> who when hee had established the kingdome, and strengthened himselfe, <hi>for<g ref="char:EOLhyphen"/>sooke the law of the Lord.</hi> And then the sense of the Text is, that we not only then thinke vpon God, when want of his helpe &amp; our owne Misery prompts vs, like Mariners at Sea, whose religion oft-times rises or falls with the waue; who with <hi>Ionahs</hi> Ship<g ref="char:EOLhyphen"/>mates pray deuoutly in a storme, but in a calme lay their deuotion to sleepe till the next Tempest awake it; But in our happi<g ref="char:EOLhyphen"/>est condition, in our abundance, before ad<g ref="char:EOLhyphen"/>uersitie like a blacke cloud ouershadowes vs, <hi>Whilst the euill dayes come not,</hi>
+                        <note place="margin">Verse 1.</note>
+                        <hi>nor the yeares wherein thou shalt say I haue no plea<g ref="char:EOLhyphen"/>sure in them.</hi> Vpon which Interpretation, though proper to our Authours purpose, and warranted by the best Expositors, I dare not at the end of my iourney embarque my selfe, but insist vpon the literall meaning and Temporall acception of Dayes, ta<g ref="char:EOLhyphen"/>king the <hi>Dayes of our youth,</hi> for that short portion of Time set out for Mans being.</p>
+                     <p>Which is best computed by Daies, &amp; that
+<pb n="34" facs="tcp:177036:21"/>
+                        <hi>Stylo veteri,</hi> the stile being drawne downe from our Fore-Fathers. <hi>Iacob</hi> demanded by <hi>Pharaoh</hi> how old he was, calculates himself by <hi>Dayes,</hi> and those summ'd vp in sorrowes in stead of houres,
+<note place="margin">Gen. 47.9.</note>
+                        <hi>Few and Euill haue beene the Dayes of my Yeares.</hi> If hee whose Age doubled ours at the largest extent, numbred his Time by <hi>Dayes,</hi> wee that are be-dwarfed both in our Stature, and our Yeares so ma<g ref="char:EOLhyphen"/>ny spans below him, by what short measure shall wee take our life? <hi>Dayes</hi> are too large a size. For when wee thinke that halfe our Timeis Night, which wee sleepe out; and of the other part which wee call Day, much is laid out vpon Ceremony, &amp; the circum<g ref="char:EOLhyphen"/>stance of Life, our Dressings, our Meales, our Visits, our recreations; I say, when wee consider this, wee shall confesse that <hi>Mini<g ref="char:EOLhyphen"/>mum est quod viuitur;</hi> nay lower yet, <hi>Pun<g ref="char:EOLhyphen"/>ctum est quod viuitur,</hi>
+                        <note place="margin">Seneca.</note>
+                        <hi>&amp; adhuc puncto minus.</hi> Life hath the least share in our <hi>Dayes,</hi> the Dimensions of it appearing no bigger than one sand in the Houre-glasse to the whole houre, or lesse than a small point to a Line.</p>
+                     <p>Wherefore then doth improuident Man
+<pb n="35" facs="tcp:177036:21"/>sooth himselfe with the imagination of ma<g ref="char:EOLhyphen"/>ny yeares to come, when his whole Time is comprehended in a few <hi>Dayes?</hi> nay begun and finisht in one <hi>Day, Factum est Mane,</hi>
+                        <note place="margin">
+                           <hi>Biel. Lect.</hi> 70. <hi>de Missa.</hi>
+                        </note>
+                        <hi>&amp; véspere vnus Dies, sc. Mane Iuuentutis, &amp; ve<g ref="char:EOLhyphen"/>spere Senectutis.</hi>
+                        <note place="margin">Genes. 1.5.</note> As at first the <hi>Euening and Morning</hi> made the Naturall Day, so Youths morning, and Ages euening make but one Day of Life.</p>
+                     <p>What haste then ought wee to make in our Conuersion? when our whole terme is bounded by such narrow Confines, and the flying Minutes in their sly Motion be<g ref="char:EOLhyphen"/>guile vs so fast, that wee are not sensible of times stealth, or our owne declining to the Euening. Why doe wee so adiorne religious duties, sending away those better thoughts which bring God neere vnto vs,
+<note place="margin">Acts 24.26.</note> as <hi>Foelix</hi> did <hi>Paul, I will heare Thee some other Time,</hi> when wee are not Owners of so poore an <hi>Election,</hi> as to promise another peece of Time, which may bring those thoughts and vs together againe?
+<note place="margin">
+                           <hi>August. serm.</hi> 16. <hi>de verb. Dom.</hi>
+                        </note>
+                        <hi>Indulgentiam Deus promisit, sed Crastinum non promisit.</hi> He that hath promised thee a Pardon this Day for
+<pb n="36" facs="tcp:177036:22"/>thy Sin, hath not promised thee a Reprieue for thy Life one day longer. And therefore if thou dismisse Christ when he knocks for entrance at thy heart,
+<note place="margin">Prou. 3.21.</note> with a <hi>Vade &amp; cras reuertere, Goe and come againe to mee to mor<g ref="char:EOLhyphen"/>row,</hi> thou forgettest Christs summons in the Gospell,
+<note place="margin">Luc. 12.20.</note>
+                        <hi>Stulte hâc nocte,</hi> Foole thou hast no assurance of thy soule this night, nay past this minute: and therefore <hi>Now</hi> col<g ref="char:EOLhyphen"/>lect thy selfe, delay not beyond this instant. <hi>Ecce nunc tempus acceptabile:</hi>
+                        <note place="margin">2 Cor. 6.2.</note>
+                        <hi>Now is the ac<g ref="char:EOLhyphen"/>cepted time.</hi>
+                     </p>
+                  </div>
+                  <div n="6" type="section">
+                     <head>Remember Now thy Creatour.</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> OF all the seuerall distributions of Time,
+<note place="margin">Now.</note> there is none that we can lay claime to but the Present,
+<note place="margin">
+                           <hi>Aug. Confess.</hi> 11.</note>
+                        <hi>Temp{us} prae<g ref="char:EOLhyphen"/>teritū iam non est, tempus futurū nondùm est, praesens autem solùm temp{us} est,</hi> The past time is not now, the future is not yet, onely the present may be called a time, and that on<g ref="char:EOLhyphen"/>ly called ours.
+<note place="margin">
+                           <hi>Arist. Phys. lib.</hi> 4.</note> Therefore <hi>Aristotle</hi> deliue<g ref="char:EOLhyphen"/>red it in a blunt, but true phrase, <hi>Nihil ha<g ref="char:EOLhyphen"/>bemus de tempore nisi Nunc;</hi> Wee haue no
+<pb n="37" facs="tcp:177036:22"/>interest in time beyond this present <hi>Now.</hi> And that so short, that like a flash of light<g ref="char:EOLhyphen"/>ning, it leapes out and dies at once. That which I call <hi>Now,</hi> lasts no longer than the verie syllable, which deliuers it to your eare, but changes in the mid-way, past and gone in that breath which named it.</p>
+                     <p>Thus doth Time incessantly feed on vs: it eats vpon our dayes, digesting them so fast and greedily, that our <hi>Future,</hi> which was a minute since before vs, not yet arri<g ref="char:EOLhyphen"/>ued, is in the twinckling of an eye behinde vs, lost and swallowed vp in the wide gulph of time Past. O wretched condition of Man-kinde, that stands accountant vn<g ref="char:EOLhyphen"/>to God, for euerie sand that moues &amp; pas<g ref="char:EOLhyphen"/>ses thorow Times Houre-glasse, yet scarse is allowed so much of time as to number his receipts, and to compute his charge, which powres and empties it selfe so fast vpon him, that his Present is suddenly min<g ref="char:EOLhyphen"/>gled with the Past, and all the seuerall pensi<g ref="char:EOLhyphen"/>ons and contributions, which out of Times Exchequer are payed to life, no sooner grow due, but they become Arrerage.</p>
+                     <pb n="38" facs="tcp:177036:23"/>
+                     <p>In which fickle momentany flights, what securitie haue wee in life? How shall wee make vp our Audit with God, for these summes so hastily throwne vpon vs, but by laying hold vpon this instant, <hi>Now?</hi> Nay, how shall wee possesse our selues of that <hi>Now</hi> of time, which vanishes as it appeares, but by preuenting it, by anticipating the day before it climbe too farre out of our reach, and our Sunne in a precipitate de<g ref="char:EOLhyphen"/>scent haste towards the West?</p>
+                     <p>Tis hard for a routed Armie to re-enforce it selfe in the end of the day, or but to make an orderly retreit; and it is as hard for man in his old age, when an Armie of infirmi<g ref="char:EOLhyphen"/>ties mustered against him, make the mini<g ref="char:EOLhyphen"/>sters of Reason disband, and euerie disease hath him vpon the execution; when the ap<g ref="char:EOLhyphen"/>proches of death affright his dayes, by loo<g ref="char:EOLhyphen"/>king in at his windowes, and <hi>by knocking at his doore,</hi> disturbe his rest, making his nights sleepelesse, to deliuer vp a cleere vn<g ref="char:EOLhyphen"/>disturbed account to God, or to retire with<g ref="char:EOLhyphen"/>out confusion and disorder, vnto the dust from whence he was taken.</p>
+                     <pb n="39" facs="tcp:177036:23"/>
+                     <p>It is not a perfect will, when the Testa<g ref="char:EOLhyphen"/>tor is not in perfect memorie. I would bee loth to make my last Audit with God, in worse state of minde than my Audit with the world; the not disposing of my goods, being but a trifle, to the not disposing of my soule. My goods, if I haue any, will find an owner, though I appoint none, when I am gone, a brother, or a friend, or a childe; but if on such loose vnsettled termes I part with my <hi>soule,</hi> who shall owne it? He that by the right of creation hath best title to it, and made it mine, will not receiue it backe from me, vnlesse by my assignement, vn<g ref="char:EOLhyphen"/>lesse my prayers and my penitence make it a Legacie fit for Him. It doth concerne me therefore to bequeath it to Him betimes, whilst I am in my right minde and perfect vnderstanding; as S. <hi>Augustine</hi> aduises, <hi>Age poenitentiam dum sanuses:</hi>
+                        <note place="margin">
+                           <hi>August. hom.</hi> 41.</note> before my weake age confine mee to my chamber, or sicknesse lay mee on my death-bed. But then to leaue off sinning, when I am readie to leaue life, argues, I would yet sinne lon<g ref="char:EOLhyphen"/>ger if I might liue; That it is necessitie, not
+<pb n="40" facs="tcp:177036:24"/>my owne will diuorces mee and my vices. Such a bed-rid recantation as this is scarse worth the name of a Repentance. For I cannot so properly be said to repent mee of my sinnes, rather my sinnes repent them<g ref="char:EOLhyphen"/>selues of mee; nor doe I discharge them, but more truely they discharge me, casting me off as an vnusefull minister, vnable and vnfit now to serue them any longer.</p>
+                     <p>S.
+<note place="margin">Ambros. lib. de Poenitent.</note>
+                        <hi>Ambrose</hi> pronounces a woe vpon them, who put a period to their licentious courses and life together: <hi>Vae illis qui tunc habuerunt terminum luxuriae quandò vitae.</hi> S.
+<note place="margin">August.</note>
+                        <hi>Augustine</hi> goes neerer, <hi>Periculosum est &amp; interitui vicinum ad mortem protrahere poeni<g ref="char:EOLhyphen"/>tentiae remedium:</hi> A repentance protracted and delayed to the last houre of life, bor<g ref="char:EOLhyphen"/>ders vpon destruction. But yet though it be so dangerous, so neere the brinke, it is not desperate. God forbid that I or any should miscensure the late conuersion of a dying sinner. Christs pardon to that <hi>con<g ref="char:EOLhyphen"/>demned,</hi> nay <hi>executed</hi> man vpon the <hi>Crosse,</hi> shewes that his mercie is not limited by any circumstance of time. Farre therefore be it
+<pb n="41" facs="tcp:177036:24"/>from vs to lay such a stumbling block be<g ref="char:EOLhyphen"/>fore the feet of those that are now falling into earth, as to imagine the penitence of Him that <hi>hath waxed old in his iniquities</hi> (as the Prophets phrase is) should not be accep<g ref="char:EOLhyphen"/>table to God. Though young-begun de<g ref="char:EOLhyphen"/>uotion be more durable, an elder is not vn<g ref="char:EOLhyphen"/>welcome. God accepts a late conuersion better than none; for,
+<note place="margin">
+                           <hi>Ambros. l.</hi> 3. <hi>de Virgin.</hi>
+                        </note>
+                        <hi>Omnis aetas habilis Deo.</hi>
+                     </p>
+                     <p>Whilest wee haue any interest in life, we need not despaire; wee are not past <hi>the ac<g ref="char:EOLhyphen"/>ceptable time,</hi> or <hi>the day of our saluation.</hi>
+                        <note place="margin">Gerson.</note>
+                        <hi>Tem<g ref="char:EOLhyphen"/>pus opportunum est tempus vitae mortalis in quâ est opportunum tempus remissionis.</hi> Any part or moment of life is capable of Gods mercie in the remission of sinnes. Tis true that after death Gods Court of Audience is shut vp, all prayers returne emptie, and re<g ref="char:EOLhyphen"/>pentance is ineffectuall: but the last part of age, though it be the picture of death, tis not the originall. Though it bee the <hi>Vigill</hi> and <hi>Eue</hi> of our last Festiuall,
+<note place="margin">Reuel. 14.13.</note>
+                        <hi>wherein wee shall finally rest from all our labours,</hi> yet it is not death. There is yet a <hi>Nunc,</hi> a <hi>Now;</hi>
+                        <pb n="42" facs="tcp:177036:25"/>there is a sparke of Life, rak't vp in the em<g ref="char:EOLhyphen"/>bers of Age, able to kindle hopes as high as our Saluation.
+<note place="margin">Psal. 148.</note> Therefore the Psalmist in<g ref="char:EOLhyphen"/>uites the Children of the Winter <hi>Snow</hi> and <hi>Haile,</hi> as well as <hi>Fire, old Men</hi> as well as <hi>Chil<g ref="char:EOLhyphen"/>dren, to praise God.</hi>
+                     </p>
+                     <p>There are none that can so <hi>Adaequatè,</hi> so truly, so punctually be said to possesse this <hi>Now,</hi> as old Men. For they haue but bare<g ref="char:EOLhyphen"/>ly this present Minute, so much of Time, and no more. Tis true that Youth hath no Assurance of Life past this very Instant, but Age hath no Hope beyond it.
+<q>
+                           <l>
+                              <hi>Vitae summa breuis,</hi>
+                              <note place="margin">Horat.</note>
+                           </l>
+                           <l>
+                              <hi>Spem vetat inchoare longam.</hi>
+                           </l>
+                        </q> Yet all I enforce from hence is not to terri<g ref="char:EOLhyphen"/>fie, but to hasten them, as deuout <hi>Ananias</hi> did <hi>Paul</hi> to his Conuersion,
+<note place="margin">Acts 22.16.</note>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>; <hi>Now why tarriest thou? arise, and wash away thy sinne.</hi> That they may employ this short allowance of Time to the best Aduantage; that since they Now haue so little Day to trauell by, they gird vp their Loines, and hold that pace which <hi>Eliah</hi> did before the Chariot of his Enemy <hi>Ahab, Runne,</hi> not
+<pb n="43" facs="tcp:177036:25"/>creepe, being as swift and instant in their preparation, as death is on them. Lest the consideration of themselues, that they are now like trees loosened at the root, falling into earth, and <hi>as they Now fall, so must they for euer lie,</hi> whether to the right hand, or to the left, to Mercie or to Iudgement; or else the consideration of that great iourney which they are now going, from Earth to Heauen, and their feare of being benighted ere they get thither, hauing so small a time to iourney in, perplex and dissettle their thoughts, making them amazedly cry out, as they did in the Prophet, <hi>Woe vnto vs,</hi>
+                        <note place="margin">Ierem. 6.4.</note>
+                        <hi>for the day declineth, and the shadowes of the eue<g ref="char:EOLhyphen"/>ning are stretched out.</hi>
+                     </p>
+                     <p>The Conclusion and Summe of all is;
+<note place="margin">Conclusion.</note> that wee beseech Almightie God to feather vs with the wings of the morning, that wee may begin our flight to him betimes; that wee may <hi>Remember him in the dayes of our youth.</hi> But if like sluggards wee haue out<g ref="char:EOLhyphen"/>slept our Morning, yet that He will vouch<g ref="char:EOLhyphen"/>safe vs his grace, to bring vs to Him in the After-noone or Euening of our life: That
+<pb n="44" facs="tcp:177036:26"/>Hee will entertaine vs into his <hi>Vineyard</hi> in his owne time, whether it bee at the <hi>Sixth,</hi> or <hi>Ninth,</hi> or <hi>Eleuenth Houre.</hi> I know the morning is the best to enter vpon this taske; And to hide our selues out of the way, or out of a presumption to deferre it to the latter part of the day, is Sinne and Danger.</p>
+                     <p>But yet if wee can stand in Christs way, to bee called by Him at any of his houres, wee need not feare that wee are tardy, or doubt our recompence. They that were hired at the <hi>Eleuenth</hi> and last houre,
+<note place="margin">Matth. 20.9.</note> had their <hi>penny</hi> as well as the earliest <hi>that had borne the heat of the day.</hi> And <hi>Nicodemus had his accesse to Christ by night.</hi>
+                        <note place="margin">Iohn 3.2.</note>
+                     </p>
+                     <p>What then though our Lifes short Taper be wasted to a snuffe, and almost burnt out: if that snuffe of our dying candle will but last so long,
+<note place="margin">Ecclus. 17.27.</note> that wee may see to <hi>praise God before our death;</hi> if it will but serue to light vs fairely towards our graues, wee shall not then feare to goe vnto our last beds in the darke. Our Bodies will sleepe in their dust without a candle, and for our Soules they will need none, being translated into that
+<pb n="45" facs="tcp:177036:26"/>region of light,
+<note place="margin">Reuel. 22.5.</note> where there is <hi>no need of a candle,</hi> but the brightnesse of Gods face holds on the day euerlastingly, not suffering the night to riuall it any longer. Where their spring neuer droopes, nor their <hi>Youth</hi> de<g ref="char:EOLhyphen"/>clines: where the presence of their <hi>Creatour,</hi> whom they <hi>Now</hi> contemplate, perpetuates that <hi>Now</hi> vnto them, fixing it to an Eternall Consistence of Time, which cannot alter, or get beyond them, and makes their Fruition as Immortall as their Ioyes.</p>
+                     <closer>AMEN.</closer>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177036:27"/>
+                  <pb facs="tcp:177036:27"/>
+                  <p>A SERMON PREACHED AT WHITE-HALL IN Lent 1626. February 20.</p>
+                  <p>BY <hi>Henry King,</hi> D. D. one of his Maiesties <hi>Chaplains in Ordinary.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by IOHN HAVILAND, 1627.</p>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb facs="tcp:177036:28"/>
+                  <pb n="1" facs="tcp:177036:28"/>
+                  <head>A SERMON PREACHED at White-Hall in Lent. 1626.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>PSAL. 55.6.</hi>
+                        </bibl>
+                        <p>And I said, O that I had wings like a Doue, for then would I flee away, and be at rest.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">I</seg> Know that some Writers interpret this Psalme in a My<g ref="char:EOLhyphen"/>sticall sense of the Passion of Christ,
+<note place="margin">Gloss.</note>
+                     <note place="margin">Hilarius. Hierouymus. Cassiodor. Lorinus.</note> and the Persecution of his Church: And apply this Text to our Sauiours Resurrection, desiring to As<g ref="char:EOLhyphen"/>cend
+<pb n="2" facs="tcp:177036:29"/>vp into Heauen, and to assume his proper place at the right hand of his Fa<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>But my discourse runs not by that Com<g ref="char:EOLhyphen"/>passe; I take it Literally, as it is the com<g ref="char:EOLhyphen"/>plaint of <hi>Dauid,</hi>
+                     <note place="margin">1 Sam. 23.</note> and the History of his di<g ref="char:EOLhyphen"/>stresse, flying from <hi>Sauls</hi> fury into the Wil<g ref="char:EOLhyphen"/>dernesse of <hi>Ziph:</hi>
+                     <note place="margin">Vatablus. Arias.</note> Or as others will haue it, from the conspiracy of <hi>Absolon</hi> and <hi>Achi<g ref="char:EOLhyphen"/>tophel.</hi>
+                  </p>
+                  <p>Vnder whose Person I shall consider the Misery and disquiet of Mans life, Bewailing his wretched condition, and desirous to Go out of the World.</p>
+                  <p>
+                     <hi>O that I had wings like a Doue, for then would I fly away, and be at rest.</hi>
+                  </p>
+                  <p n="1">1 To giue you a cleerer view of the trou<g ref="char:EOLhyphen"/>bles which distemper Mans life; Behold him first with <hi>Dauid</hi> in a sad solitary <hi>Consul<g ref="char:EOLhyphen"/>tation,</hi> debating with Himselfe how hee might compasse his Flight, <hi>And I said.</hi>
+                  </p>
+                  <p n="2">2 The conclusion vnto which hee growes, as comfortlesse as the other; where<g ref="char:EOLhyphen"/>in his Escape is only form'd in his Imagina<g ref="char:EOLhyphen"/>tion and Wish, <hi>Quis dabit? O that I had, &amp;c.</hi>
+                  </p>
+                  <pb n="3" facs="tcp:177036:29"/>
+                  <p n="3">3 The meanes of his conueyance or sub<g ref="char:EOLhyphen"/>iect of his Wish is, <hi>Wings.</hi>
+                  </p>
+                  <p n="4">4 The <hi>Quality,</hi> wings <hi>like a Doue.</hi>
+                  </p>
+                  <p n="5">5 The <hi>vse</hi> he would make of them, his flight, <hi>For then I would flie away.</hi>
+                  </p>
+                  <p n="6">6 The <hi>End</hi> of his <hi>Flight,</hi> and Scope of his Wish, <hi>Rest, I would flie away, and be at rest.</hi>
+                  </p>
+                  <p>My Meditations are now on wing, and I shall make but a short and speedy flight thorow each circumstance.</p>
+                  <div n="1" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> THere is no greater torment to the Minde than suspense;
+<note place="margin">
+                           <hi>And I said.</hi>
+                        </note> when Men are vnresolu'd in their courses, and vncertaine what to doe. But when amidst this anxiety they are exposed to solitude, when they are left to themselues with all their Sorrowes and Feares about them, I know not vnto what higher pitch Calami<g ref="char:EOLhyphen"/>ty can be wrought.</p>
+                     <p>A certaine Death is better than a doubt<g ref="char:EOLhyphen"/>full Repriue: and a Sociable Woe sweeter than a solitary Content. Mirth in a Wilder<g ref="char:EOLhyphen"/>nesse, is a strange Anticke: but Misery se<g ref="char:EOLhyphen"/>questred
+<pb n="4" facs="tcp:177036:30"/>from reliefe or aduice, a very Monster. The Oratour said, hee would not liue alone in Heauen without a Com<g ref="char:EOLhyphen"/>panion to communicate his Ioyes vnto.</p>
+                     <p>I dare not say so. But sure the Society of Angels &amp; Saints contributes very much to those vnutterable Ioyes: And then, if the <hi>Communion of Saints</hi> be an Article in my Creed, to cheere my languishing Faith, I haue good cause to put the <hi>Desertion,</hi> the being forsaken of Men into my Letany, and pray against it. The <hi>Dereliction</hi> of the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> was so exquisite a Torment, that it cau<g ref="char:EOLhyphen"/>sed the <hi>Sonne of God</hi> to confesse the weight of it by his loud cry vpon the Crosse,
+<note place="margin">Matth. 27.46.</note>
+                        <hi>Why hast thou forsaken me?</hi> The apprehension of it, did some way daunt that inuincible Patience, which all the preceding Agonies could not shake. For amidst them He was, <hi>Vt Ouis coram tondente,</hi> Dumbe and silent as the sheepe before the Shearer: Onely this affliction broke open the sacred doores of speech, which before Silence had lockt and seal'd vp, forcing <hi>Him</hi> in the highest accent of sorrow to expostulate his for<g ref="char:EOLhyphen"/>lorne
+<pb n="5" facs="tcp:177036:30"/>Condition. The curse of Men, or vengeance of God can finish in no more fearefull issue than Desolation. Nor could the mournfull Prophet, whom griefe had made eloquent, bewaile <hi>Hierusalem</hi> in a more learned Dirge, or write a sadder E<g ref="char:EOLhyphen"/>pitaph vpon her ruines, than <hi>Desolata est,</hi>
+                        <note place="margin">Esa. 64.10.</note> she is left alone, desolate, and forsaken, and there were none to comfort her. If this Desolation in misery crack't the very Axle<g ref="char:EOLhyphen"/>tree of Heauen, and made the <hi>Sonne of God,</hi> who <hi>vpholds all things,</hi>
+                        <note place="margin">Hebr. 1.3.</note> shrinke vnder the weight of it; what Sonne of Man, though strong as <hi>Atlas,</hi> can stand below this bur<g ref="char:EOLhyphen"/>then, and not perish vnderneath it? Af<g ref="char:EOLhyphen"/>fliction lookes cheerefully, when it may repaire to such as will afford it Pitie or Comfort: But when it is straightned, and lies vnder a solitary Confinement, it is the very picture of Despaire. If mishap single mee out, and I fall in Company, a Friend may raise me vp againe: but, <hi>Vae soli,</hi>
+                        <note place="margin">Eccles. 4.10.</note> if I fall alone, when I am left and giuen ouer to my selfe, <hi>Woe is mee:</hi> What hand shall then lift me vp, or who shall raise my soule
+<pb n="6" facs="tcp:177036:31"/>from that deiection whereinto Calamity hath throwne her? How hopelesse is my Redresse, when amazement seizes the Or<g ref="char:EOLhyphen"/>gans of reason, and euery faculty that should assist me is confounded, when only feare is predominant, and the perplexed Phantasie, like a false glasse, multiplies the danger, and makes each mischiefe looke far bigger than it is?</p>
+                     <p>Concluded vnder this Misery shall you finde <hi>Dauid,</hi> He lies here vnder the pursute of swift Enemies: and which is worst, na<g ref="char:EOLhyphen"/>ked, and vngarded; left to Himselfe, to con<g ref="char:EOLhyphen"/>sult with his owne troubled bosome, what course of safety to take. Which Deliberati<g ref="char:EOLhyphen"/>on of his is attired in the same Liuery his Fortune now weares, Pale and Distracted: He calls for helpe, and the best reliefe his Iudgement can furnish him with, is but the name of a Rescue; and rather a desire of his Escape, than the meanes how to effect it; Tis but A <hi>Dixi, I said,</hi> He doth but talke of it. To promote which Purpose, he would become a Debtor to a creature of the Aire for wings to helpe him from the Earth; and
+<pb n="7" facs="tcp:177036:31"/>to procure this Courtesie, he is constrained to vse the fruitlesse mediation of an Agent, more emptie than the Aire, a Wish; <hi>Quis dabit? O that I had</hi> this Opportunitie of Flight!</p>
+                     <p>Though <hi>Dauid</hi> be the Historie, Man is the Morall: whose condition at best is as full of anxietie as <hi>Dauids:</hi> If <hi>Dauid</hi> had e<g ref="char:EOLhyphen"/>nemies, he hath more. And if he had cause to wish his departure, hee hath so too. Tis vnsafe for him to stay here, and yet vncer<g ref="char:EOLhyphen"/>taine when he can get off. Onely Desire is his Pilot, which lookes at a great distance vpon his deliuerie; and his <hi>wishes</hi> bespeake that happinesse, which yet hee is not neere vnto.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <head>O that I had, &amp;c.</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> 'TIs a miserable releefe, when we can onely heare the sound of comfort,
+<note place="margin">O that I had.</note> but feele none. Wishes that are la<g ref="char:EOLhyphen"/>den with the richest blessings, reach not farther than the Eare, but die there: as sparkes leaping from the fire, lose their
+<pb n="8" facs="tcp:177036:32"/>noise and light together. Did euer the Hi<g ref="char:EOLhyphen"/>storie of a Medicine cure a sick man? or the smell of a feast feed one that was hungrie? or the contemplation of Libertie baile a Prisoner? If so, then haply I may be induc'd to thinke that wishes haue somewhat in them besides the sound, and are more than meere shadowes.</p>
+                     <p>Shadowes indeed, dilated or contracted according to the Phantasie, from whose vncertaine Light they are cast. They are but as meat set vpon the Herse of the Dead, for shew, not vse: or like Dreames, whose successe is as emptie as their Birth. The day will not rise a minute the sooner for my wi<g ref="char:EOLhyphen"/>shing: nor shall a man haue a whit the more, because hee desires an Addition to that he hath. Those desires may bring him lesse quiet, lesse contentment, not more wealth. Let me apply the words of <hi>Esay,</hi> our wishes at best are but <hi>as a Night vision,</hi>
+                        <note place="margin">
+                           <hi>Esay</hi> 29.7, 8.</note>
+                        <hi>as an hungrie man dreameth that he eats, but he awakes and his soule is emptie.</hi>
+                     </p>
+                     <p>As their releefe, so their Parentage is mi<g ref="char:EOLhyphen"/>serable. Our words haue a fuller Pedegree
+<pb n="9" facs="tcp:177036:32"/>than our wishes; for those spring from plentie,
+<note place="margin">Matth. 12.34.</note>
+                        <hi>Out of the abundance of the heart the mouth speakes:</hi> But wishes spring from Pe<g ref="char:EOLhyphen"/>nurie, they are the Dictates of our necessi<g ref="char:EOLhyphen"/>tie, and the onely Grammar by which they are taught to speake, is Want; which prompts vs to wish what we haue not.</p>
+                     <p>There is not in the World any thing so lawlesse as our desires, which like Free<g ref="char:EOLhyphen"/>booters, rifle others to enrich vs:
+<note place="margin">
+                           <hi>Seneca Ep.</hi> 32.</note>
+                        <hi>Multos compilant, vt te locupletent.</hi> There is not any thing so wilde, as our wishes. Reason cannot bound, nor Religion reclaime them; but like <hi>Haggards,</hi> that goe out at euerie Checke, they flie at all game that cros<g ref="char:EOLhyphen"/>ses them. We roue and bangle after euerie Fortune, most eagerly pursuing that which wee are prohibited, and affecting least that estate which wee enioy.</p>
+                     <q>
+                        <l>
+                           <hi>Quî fit Maecoenas, vt nemo,</hi>
+                           <note place="margin">
+                              <hi>Horat. Sat.</hi> 1.</note>
+                           <hi>quam sibi sortem</hi>
+                        </l>
+                        <l>
+                           <hi>Seu ratio dederit, seu fors obiecerit, illa</hi>
+                        </l>
+                        <l>
+                           <hi>Contentus viuat?</hi>
+                        </l>
+                     </q>
+                     <p>'Twas a question long agoe proposed, but neuer to be resolued, so long as Fortune or Nature haue any interest in Man. Our
+<pb n="10" facs="tcp:177036:33"/>mindes lie in our bodies, iust as sicke men in their beds, who by tumbling and tossing from one place to another, thinke to gaine ease, yet by their vnquiet Motion heighten their Distemper.</p>
+                     <p>We varie our desires, shift our Imaginati<g ref="char:EOLhyphen"/>ons from one Obiect to another, in which wildernesse of thoughts we lose our selues; and by this confused way, the more wee seeke after Rest, the more we tire our selues. Either we grow wearie of the State of the Times, or of our owne; wearie of others, or of our selues; We thinke our good daies if wee haue any) fly too fast; but our Ill ones,
+<note place="margin">Iosh. 10.13.</note> as if gouern'd by that <hi>Sunne</hi> which stood still in <hi>Gibeon,</hi> hang too long ouer our heads; which makes vs ofttimes, ere it be Noone with vs, ere wee haue arriued at halfe our age, to wish it Night. Thus to helpe the lazie Motion of Time, to get the start both of it and our owne miseries, wee plume our selues for flight, and our Wishes are <hi>Wings.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="section">
+                     <pb n="11" facs="tcp:177036:33"/>
+                     <head>O that I had Wings!</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> AS sparkes flie vp,
+<note place="margin">Wings.</note> so should Mans thoughts; The flame without In<g ref="char:EOLhyphen"/>struction can finde out its owne Center; but all the Lessons or Instructions <hi>Diuinitie</hi> can reade, will hardly raise Man, who is a sparke lighted from the <hi>Deitie,</hi> or make him beare vp vnto his proper <hi>Sphere. Habet anima volatus suos;</hi>
+                        <note place="margin">
+                           <hi>Ambros. de Virg. lib.</hi> 3.</note> as other winged Creatures, so the Soule hath her flights too, and the period of those flights is Heauen. Her proper Motion then is to goe to Mount, to worke vp: Should shee forget that Motion, the verie forme of the Bodie would quicken her Memorie; which is therefore built in that streight vpright fi<g ref="char:EOLhyphen"/>gure, to make vs vnderstand, that as our future aboad, so our present Contemplation must be Heauen.</p>
+                     <p>When other Creatures, in signe of Ho<g ref="char:EOLhyphen"/>mage to the earth that bare them, decline downewards, and with deiected postures, confesse their whole Parentage to bee no<g ref="char:EOLhyphen"/>thing
+<pb n="12" facs="tcp:177036:34"/>else but Dust, into which ignoble Element they shall bee taken backe againe, and so digested into their confused Princi<g ref="char:EOLhyphen"/>ples, as if they neuer had beene: When all their Memorie is shut vp in earth, and de<g ref="char:EOLhyphen"/>termines in that corruptible Masse, out of which they were at first extracted; Man, like a Monument of Honour, like a Pillar or Pyramid, erected for the glorie of his Creatour, points vpwards at Him: And though his Base or Pedestall bee grounded in Earth, his head is in the Clouds, like that great Tree in <hi>Nebuchadnezzars</hi> vision,
+<note place="margin">Dan. 4.10, 11.</note> whose plantation was earth, but his <hi>Height</hi> reach't <hi>Heauen.</hi> How much then doe those Men degenerate from their Creation, whose groueling Meditations are euer bedded in Earth, and like Moles, buried below the the cares of this world, worke vnder ground? more zealous to finde out the Veines and Mines of Treasure, lockt vp within the Wombe of the Earth, than to make themselues capable of those richer blessings, which are treasur'd vp in Heauen.</p>
+                     <p>I doe not iustifie one sinne by another,
+<pb n="13" facs="tcp:177036:34"/>nor by any diminution of the one, contend to make the other plausible; but by way of Comparison I dare be bold to say, the Am<g ref="char:EOLhyphen"/>bitious Man hath more of Man in Him, than the Couetous, and bates lesse of his pitch. A Hawke that keepes her wings, though shee be otherwise ill-conditioned, and flie not true, does lesse degenerate from the Aierie, than one that being throwne off, vses to take stand vpon the ground.</p>
+                     <p>The proper Motion of my soule is to as<g ref="char:EOLhyphen"/>cend, and though an aspiring Man makes his ascent by the wrong staire, hee more preserues the dignity of his being, giues more testimony that He hath a Soule, than a wretched drudge of the World. And (though it be farre from me to commend either, both being execrable) I should rather Pitie a <hi>Phaëton</hi> falling in a braue Misfor<g ref="char:EOLhyphen"/>tune, than a low Slaue of the Earth, that neuer would look vp to the skie, nor care'd for any Sun-shine, saue onely that, which his bright Sunne of Metals, Gold casts.</p>
+                     <p>To take vp this loose Excursion, and to fix you where I left. Earth is no competent
+<pb n="14" facs="tcp:177036:35"/>Obiect for Mans thoughts. If the Soules Actiue Faculties lye still emprisoned with<g ref="char:EOLhyphen"/>in that Body of Clay which she informes, the Dull sense would be as faire a difference of Man, as Reason and the discursiue part. Anatomists would haue the soule learne to contemne the World from the very figure of the <hi>heart,</hi> which is dilated vpward, but pointing and narrow below, to shew wee should touch the earth only, <hi>In Puncto.</hi> Our Meditations must rather glance, than fix vpon the businesse of the World. And therefore the Soule (in <hi>Boëtius</hi>) sensible of her owne Eleuation, confesses shee hath wings to lift her farre aboue the contempti<g ref="char:EOLhyphen"/>ble earth.
+<q>
+                           <l>
+                              <hi>Sunt pennae volucres mihi,</hi>
+                              <note place="margin">
+                                 <hi>Beetius de Con<g ref="char:EOLhyphen"/>sol. lib.</hi> 4. <hi>metr.</hi> 1.</note>
+                           </l>
+                           <l>
+                              <hi>Quas sibi cùm velox mens induit,</hi>
+                           </l>
+                           <l>
+                              <hi>Terras perosa despicit.</hi>
+                           </l>
+                        </q> S.
+<note place="margin">
+                           <hi>Ambros. Ser.</hi> 14. <hi>in Psal.</hi> 118.</note>
+                        <hi>Ambrose</hi> makes the Application, <hi>Satis est tibi vt auem te esse noueris, assumptum in natu<g ref="char:EOLhyphen"/>ram volandi, &amp;c. Quid te in terram deijcis?</hi> Since, O Man, like a Bird thou hast the Li<g ref="char:EOLhyphen"/>berty of Wings, why doest thou clog thy flight with the cares of this world? why
+<pb n="15" facs="tcp:177036:35"/>doest thou set vp thy Rest on Earth, that shouldest build thy Tabernacle in Hea<g ref="char:EOLhyphen"/>uen, and Nest aboue the Starres?</p>
+                     <p>But euery Plume makes not a like speed, nor flies at the same pitch. As in the feathe<g ref="char:EOLhyphen"/>red Creatures there are diuersities of wings; so there are degrees of Knowledge in mens soules, and diuersities of flights. Some haue quicker, and more lofty apprehensions than others, some haue Eagles wings, some but the wings of the Sparrow.
+<note place="margin">Reuel. 12 14.</note> The Wo<g ref="char:EOLhyphen"/>man in the <hi>Reuelation</hi> had the wings of an Eagle giuen her to accelerate her flight, and carry her into the Wildernesse. But <hi>Dauid</hi> in the <hi>Psalme</hi> had onely the wings of the Sparrow to conuey him from danger, which pursued him, <hi>Anima vt Passer erepta,</hi>
+                        <note place="margin">Psal. 1247.</note>
+                        <hi>My Soule is escaped as a Sparrow from the Net.</hi>
+                     </p>
+                     <p>Here for this Escape He desires a wing of larger stroak, stronger to maintaine a flight, and more able to goe at stretch, from that mischiefe which threatned him, <hi>the wings of a Doue:</hi> For she is held to haue the speedi<g ref="char:EOLhyphen"/>est wing for the time she flie, of any other
+<pb n="16" facs="tcp:177036:36"/>Fowle. Therefore <hi>Euripides</hi> when he would commend swiftnesse, does it in this Phrase. Not inferiour to the Doue, whose nimble pinnions euen cut the Aire with their quicke Motion.</p>
+                     <q>
+                        <hi>Radit iter liquidum,</hi>
+                        <note place="margin">
+                           <hi>Virg. Aeneid.</hi> 5.</note>
+                        <hi>celeres ne{que} commouet alas.</hi>
+                     </q>
+                  </div>
+                  <div n="4" type="section">
+                     <head>O that I had wings like a Doue.</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> 'TIs a iudicious regular Phantasie that workes by an authenticke Coppie.
+<note place="margin">Like a Doue.</note> Did all our wishes, all our desires determine like this, we should not then at any time blush to owne them: nor need wee feare though they were printed on our foreheads.</p>
+                     <p>'Tis <hi>S. Pauls</hi> Rule,
+<note place="margin">1 Cor. 12.31.</note>
+                        <hi>That wee couet the best Gifts.</hi> I thinke the Prophet here was Exam<g ref="char:EOLhyphen"/>ple to the Apostles Rule, who shapes his Wish by the very best of all flying Crea<g ref="char:EOLhyphen"/>tures, <hi>The Doue: Embleme</hi> of vnspotted Cha<g ref="char:EOLhyphen"/>stity, of white <hi>Innocence,</hi> and harmelesse Simplicity.</p>
+                     <p>
+                        <hi>The Doue</hi> hath euer beene lucky to Man<g ref="char:EOLhyphen"/>kinde.
+<pb n="17" facs="tcp:177036:36"/>It was the <hi>Doue</hi> that had the digni<g ref="char:EOLhyphen"/>ty to be dispatched, as the first Embassa<g ref="char:EOLhyphen"/>dour that euer went betwixt God &amp; Man, after the <hi>Deluge:</hi> discharging the trust of him that sent her out of the Arke so well, that she gaue him ocular proofe of the fal<g ref="char:EOLhyphen"/>ling of the Waters. Returning home with a Banner of Truce displayed in her Mouth,
+<note place="margin">Gen. 8.11.</note> and bearing the Articles of Gods couenant, and Mans Peace sealed to him in the Oliue Branch, which she presented to <hi>Noah.</hi> And when the Spirit of Comfort came from Heauen, to rest vpon the head of Christ,
+<note place="margin">Matth. 3.16.</note> he borrowed onely this shape to descend in, making his first visible apparance in the forme of the <hi>Doue.</hi> Which dignity our Sa<g ref="char:EOLhyphen"/>uiour preserues to her in an high measure,
+<note place="margin">Cant. 2.10, 14.</note> when <hi>He</hi> courts his Beloued the Church vnder this Stile, <hi>My Doue.</hi> And againe in the Gospell, where he vouchsafes to make the <hi>Doue</hi> his owne Text, and our Coppy, proposing her in his Sermon, as a Patterne worthy the imitation of all Christians, <hi>E<g ref="char:EOLhyphen"/>stote Simplices vt Columbae,</hi>
+                        <note place="margin">Matth. 10.16.</note>
+                        <hi>Be ye wise as Ser<g ref="char:EOLhyphen"/>pents, simple as Doues.</hi>
+                     </p>
+                     <pb n="18" facs="tcp:177036:37"/>
+                     <p>If the world had quite lost the Character of all Morall goodnesse, wee might profita<g ref="char:EOLhyphen"/>bly search for it, and recouer it in the <hi>Doue.</hi> Milde, and soft, and calme as the stillest Aire, hauing no Malice to sowre, no gall to dis-sweeten her Temper. I may truly apply that of <hi>Wisdome,</hi>
+                        <note place="margin">Wisd. 8.16.</note>
+                        <hi>Non habet amaritudinem conuersatio ipsius.</hi> So louing to her Mate, and so True, that shee hath giuen life to a Prouerbe by her properties: <hi>True as the Tur<g ref="char:EOLhyphen"/>tle,</hi> is the highest language coniugall loyal<g ref="char:EOLhyphen"/>ty can speake in.</p>
+                     <p>
+                        <hi>Nescit adulterij flammam intemerata Colum<g ref="char:EOLhyphen"/>ba.</hi> Neuer staind by adulterous Couplings, but of so reseru'd and cold a Chastity, which the hot flames of Lust cannot thaw.</p>
+                     <p>Not Loose, and yet most Free in her con<g ref="char:EOLhyphen"/>uersation, for shee loues Company, and therein shewes, Chastity is not onely con<g ref="char:EOLhyphen"/>fin'd to Nunneries. A sociable woman may be as honest as a Recluse, and though free, more chast and vertuous in her Mirth, than many a Cloystred frailty is in her deuotions.</p>
+                     <p>She is no light gadder like <hi>Dinah,</hi> no stragler from her house like the factious Se<g ref="char:EOLhyphen"/>paratist,
+<pb n="19" facs="tcp:177036:37"/>paratist, that flies off from the Congre<g ref="char:EOLhyphen"/>gation. 'Tis one of the <hi>Doues</hi> notes, that <hi>Gregatim volat,</hi> she will assemble with the Flocke. Not tainted with excesse in her feed; She eats for hunger, not wantonnesse. Her habitation though not Curious, yet Cleane, and White like her own Thoughts.
+<note place="margin">Matth. 7.24.</note> In the Choice whereof she imitates the wise Buil<g ref="char:EOLhyphen"/>der in the Gospell, laying the foundation of her House in the rocke,
+<note place="margin">Cantic. 2.14.</note>
+                        <hi>Columba mea in foraminibus Petrae.</hi>
+                     </p>
+                     <p>And for her lodging, 'tis not like the proud Daughters of <hi>Tyre,</hi> soft and lasciui<g ref="char:EOLhyphen"/>ous. Her Nest is hard,
+<note place="margin">Hugo Cardinal.</note> and this hardnesse (saith a Writer) signifies Repentance and strict life; to represse &amp; choake the growth of those weeds, which People of dissolute addictions, pamper'd in ease and Ryot, like ranke soiles send forth.</p>
+                     <p>It was <hi>Iobs</hi> speech, <hi>Moriar in nidulo meô,</hi>
+                        <note place="margin">Iob 29.18.</note>
+                        <hi>I shall die in my Nest.</hi> I doe not wonder then, if <hi>Dauid</hi> here going in quest of a Peace not to be found on Earth, &amp; of that finall Rest, which onely can compose the troubles that distemper life, wish to be fur<g ref="char:EOLhyphen"/>nished
+<pb n="20" facs="tcp:177036:38"/>both with Instruction and Meanes for his flight by the <hi>Doue.</hi> First desiring her Vertues to Qualifie him, to make him capa<g ref="char:EOLhyphen"/>ble of that last Quiet, and then the speed of her wings to haste vnto it, <hi>O that I had wings like a Doue, For then would I flee away.</hi>
+                     </p>
+                  </div>
+                  <div n="5" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> I Blame not any for being wearie of his stay here,
+<note place="margin">For then would I flee away.</note> or desirous to leaue the World. Sure the World now froward and pee<g ref="char:EOLhyphen"/>uish in her old Age, growes wearie of her Guests, and makes more speed to bee gone from vs, than wee can to <hi>fly away</hi> from it. For let vs set out neuer so soone, all that we can call happinesse here on Earth, hath al<g ref="char:EOLhyphen"/>ready taken <hi>Wings,</hi>
+                        <note place="margin">Prou. 23.5.</note> and <hi>Flies</hi> before vs. <hi>Ri<g ref="char:EOLhyphen"/>ches haue Eagles Wings</hi> (saith <hi>Salomon) to flie away from the Owner:</hi> so suddenly is the Worlds wealth annihilated and shrunke to nothing. And for those Graces which Ho<g ref="char:EOLhyphen"/>nour or Fauour contribute vnto vs, <hi>the Giddie Wheele</hi> of Fortune turnes about so fast, that none can take sure footing there.</p>
+                     <p>The Apostle sayes, some Mens ills doe <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,
+<note place="margin">1 Tim. 5.24.</note> leade the way, anticipate
+<pb n="21" facs="tcp:177036:38"/>Iudgement, I am sure all our good meets with its Criticall day, before wee our selues doe, who generally outliue our best Times, and suruiue all wee could haue wisht ours, saue onely our Miseries. So fleeting is the plentie or glorie of the World, so short a stay doe those blessings make with vs.</p>
+                     <p>Should they stay longer, wee could not stay with them. Infirmitie and Decay thrust on our Earthy Bodies, with such violence to their Center, which is the Graue, that, as in a Scene, our Entrance and our <hi>Exit</hi> are but a verie little distant from one another. Therefore the Philosopher, when hee was askt what life was, gaue a briefe, but significant resolution in his dumbe shew, when he but Turn'd and so went out. The Motion of our Time is so precipitate, that as if the dayes of our life were measured by that <hi>winged Sunne</hi> in <hi>Malachy,</hi> the Minutes flie away so fast,
+<note place="margin">Malach. 4.2.</note> euen our Thoughts cannot lackey, nor our De<g ref="char:EOLhyphen"/>sires keepe pace with them.</p>
+                     <p>The <hi>Shadow,</hi> or the <hi>Dreame of a sha<g ref="char:EOLhyphen"/>dow,</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, which was <hi>Pindarus</hi> his Ex<g ref="char:EOLhyphen"/>pression
+<pb n="22" facs="tcp:177036:39"/>of Life,
+<note place="margin">Iob 7.6, 7.</note> or <hi>the Weauers shuttle, or the Winde,</hi> are too slow Comparisons for Life. When wee haue named all, wee must conclude with <hi>Iob, Dies mei velociores, Our dayes are swifter than all these.</hi>
+                     </p>
+                     <p>So that wee cannot stay here, nor, if we could, doe I finde any thing to make vs en<g ref="char:EOLhyphen"/>amoured of staying. When I consider that each day addes to my sorrowes, or which is worse, my sinnes, making their guiltie ac<g ref="char:EOLhyphen"/>count rise still higher in the Doomesday Booke, how can I better make my abate<g ref="char:EOLhyphen"/>ments, than by going hence? Since liuing here I cannot but continually sin, how shall I flie the dangerous occasions of sinne,
+<note place="margin">
+                           <hi>Aug. in Psal.</hi> 54.11.</note> but by quitting Life, and <hi>flying away? Vellem vt abirem, ne manendo augeam peccata pecca<g ref="char:EOLhyphen"/>tis. O therefore that I had wings to fly away.</hi>
+                     </p>
+                     <p>Againe,
+<note place="margin">Iob 7.3.</note> when I consider with <hi>Iob, The tedious moneths of vanitie, which I am made to possesse, and the wearisome nights which are appointed for me;</hi> and that (as <hi>Salomon</hi> saith) <hi>All is labour,</hi>
+                        <note place="margin">Eeoles. 1.24.</note>
+                        <hi>and sorrow, and vexation of Spi<g ref="char:EOLhyphen"/>rit:</hi> Can any man blame me to take Saint <hi>Pauls,</hi>
+                        <note place="margin">Phil. 1.23.</note>
+                        <hi>Cupio dissolui,</hi> into my mouth? <hi>I de<g ref="char:EOLhyphen"/>sire
+<pb n="23" facs="tcp:177036:39"/>to bee dissolued.</hi> Tis but Iustice, being thus toiled out with Labour, and ouer<g ref="char:EOLhyphen"/>watcht with Care, at length to bid the World Good Night, and wish my selfe that <hi>rest,</hi> which is the End of <hi>Dauids</hi> wish, <hi>O that I had wings like a Doue: for then would I flie away, and be at Rest.</hi>
+                     </p>
+                  </div>
+                  <div n="6" type="section">
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> AS the shadow to the seruant, who hath wrought in the heat of the day;
+<note place="margin">And be at Rest.</note> or Reward to the Hireling, or sleepe to the Traueller: so sweet, so desirable is Death to one wearie of Life.
+<note place="margin">Psal. 104.23.</note>
+                        <hi>Man goeth forth to his labour till the Euening,</hi> saith the Psal<g ref="char:EOLhyphen"/>mist: All life is but a laborious Day; wher<g ref="char:EOLhyphen"/>in, as Inheritours of <hi>Adams</hi> curse, wee eat our bread in sorrow and sweat: Onely Death is our Euening, in whose succeeding Night, wee burie all the troubles of our Day; taking possession of a quiet, which wee might wish for before, not taste till then. Compar'd to this, all else wee call <hi>Rest,</hi> is counterfeit; it beares the Name, but not the true stampe, and rather resem<g ref="char:EOLhyphen"/>bles, than is Rest. Sleepe, which is the best,
+<pb n="24" facs="tcp:177036:40"/>most cunning Picture of Rest, which the curious hand of Nature euer drew vpon vs, is but a Picture, and by the Rules of Art a Coppy must lose much of the Originall. If euer <hi>Rest</hi> were drawen to the life, 'tis in that most exact Night-peece, <hi>Death;</hi> wher<g ref="char:EOLhyphen"/>in all memory of preceding trouble is so slumbred, that no relick awakes to disturbe the quiet which it affords. But 'tis much otherwise with vs, that Liue here, whose busie Cares not content with the Latitude of Time which Day allowes them, en<g ref="char:EOLhyphen"/>croach vpon our Nights, when, though the Doores of sense are lockt vp in sleepe, with false <hi>Keyes</hi> they enter at the Phantasie, which they affright with <hi>visions,</hi>
+                        <note place="margin">Iob 7.14.</note> and di<g ref="char:EOLhyphen"/>stemper with <hi>Dreames:</hi> making the same cares which bring vs to bed, keepe Compa<g ref="char:EOLhyphen"/>ny with vs there, and become our Alarums, to raise vs in the Morning. <hi>Sic nec quietem sine labore mortales habent!</hi> Thus the very Rest which we take is a toyle.</p>
+                     <p>O miserable condition of Mortality, when the relaxation of our Bodies is our Mindes exercise, when our recreations are a
+<pb n="25" facs="tcp:177036:40"/>Businesse: when our Vacation is a Terme: when our broken sleepes, and our Rest in<g ref="char:EOLhyphen"/>terrupted with thoughts, like the Intermis<g ref="char:EOLhyphen"/>sions of a Feuer, cannot properly bee ter<g ref="char:EOLhyphen"/>med an ease, but a lesse paine. But thus hee <hi>giues his Beloued sleepe:</hi> This is the rest which euen the Darlings of the World, and Lords of the Earth take here. I would it were not too true; That they often sleepe worse, neuer better than thus. Nor will the numerous Cares, which like a wreath of thornes empale their heads, and swarme within the circle of a Crowne, giue them leaue to expect more quiet, till they shall ex<g ref="char:EOLhyphen"/>change their Iuorie Beds for a Graue, their Canopie of State for a Coffin, their Sheets for a Shrowd, their rich Mantles for a Co<g ref="char:EOLhyphen"/>uerlet of Dust.
+<note place="margin">Esay 26.20.</note> Then they shall finde a <hi>Chamber in Death</hi> will be a more quiet Dor<g ref="char:EOLhyphen"/>mitorie than a Palace; and (as <hi>Iob</hi> sayes) <hi>Glebae</hi> (so the Chaldee Paraphrase renders it) <hi>The clods of the valley shall bee sweet vnto them.</hi>
+                        <note place="margin">Iob 21.33.</note> They shall rest softer vpon that cold pillow of earth, than on a Bed of downe.</p>
+                     <p>Therefore, <hi>Faeliciores mortui viuis,</hi>
+                        <note place="margin">Eccles. 4.2.</note> happier
+<pb n="26" facs="tcp:177036:41"/>are those that Sleep in Death, than any that Liue.
+<note place="margin">Reu. 14.13.</note> For, <hi>They</hi> (saith the Spirit) <hi>rest from all their labours.</hi> Their perfect Peace is sign'd, when wee here in our War-fare can<g ref="char:EOLhyphen"/>not obtaine a
+<note n="*" place="margin">Inducias vsque ad Mane.</note> truce for the Night, nor will our Disturbances allow vs quarter in our Beds: Nay scarcely in our last and lowest Beds, our Graues.</p>
+                     <p>Wherein (let mee truely say) though wee enioy a quiet Rest, compar'd to that wee had here, yet euen that, compar'd to the Rest wee shall hereafter enioy, when that <hi>Dies Refrigerij,</hi>
+                        <note place="margin">Acts 3.19.</note>
+                        <hi>Great day of refreshing is come;</hi> I say, that Rest which Death allowes is imperfect; and the Graue will appeare rather a <hi>Resting</hi> place, than a <hi>Rest;</hi> As a Traueller sits downe to ease himselfe a little on the way, that he may be fresher to hold out the latter part of his iourney. Certaine<g ref="char:EOLhyphen"/>ly, as, in the language of the Schooles, there is <hi>Beatitudo viae,</hi> a Beatitude on the <hi>way,</hi> be<g ref="char:EOLhyphen"/>fore wee reach our <hi>Countrey:</hi> so there is <hi>Re<g ref="char:EOLhyphen"/>quies viae, A rest by the way.</hi> And in that high Road of Nature, Death, is this seat, this <hi>Resting</hi> place erected, where though
+<pb n="27" facs="tcp:177036:41"/>wee sit downe, wee cannot stay: Though wee dispose our selues to sleepe there for a Time, that sleepe is not our <hi>Euerlasting Rest.</hi>
+                     </p>
+                     <p>Though wee there <hi>Rest from our labours,</hi>
+                        <note place="margin">Apoc. 14.13.</note> wee doe not <hi>Rest</hi> from our <hi>Hopes. Caro mea requiescit in spe.</hi> Wee still <hi>Rest in Hope.</hi>
+                        <note place="margin">Psal. 16.9.</note> And <hi>Hope</hi> is a watchfull, sleepelesse qualitie, that will keepe vs waking, and knocks at the Doores of our Graues, vsing the Call of <hi>Micah</hi> to raise vs thence, <hi>Arise and depart,</hi>
+                        <note place="margin">Mica. 2.10.</note>
+                        <hi>for this is not your rest.</hi> That Hope solli<g ref="char:EOLhyphen"/>cites God for the re-vnion of the Soule and the Body. And the Soule, though after her separation admitted into the Pre<g ref="char:EOLhyphen"/>sence of God, loth to partake that hap<g ref="char:EOLhyphen"/>pinesse without her Bodie, hastens Gods comming, that shee may the sooner meet with her Companion againe, <hi>Veni citò.</hi>
+                        <note place="margin">Reuel. 22.20.</note> And the Bodie, though peacefully com<g ref="char:EOLhyphen"/>pos'd in the Dust, wearie of the darke lodging and tedious Night which ouer<g ref="char:EOLhyphen"/>shadowes it, wishes for the Morning of the Resurrection, as earnestly as <hi>Iob</hi> did for the Dawning of the Day,
+<note place="margin">Iob 7.4.</note>
+                        <hi>When
+<pb n="28" facs="tcp:177036:42"/>shall I arise,</hi>
+                        <note place="margin">Iob 7.4.</note>
+                        <hi>and the Night bee gone?</hi>
+                     </p>
+                     <p>Tis not enough then for vs, <hi>Quiescere in pace,</hi> to rest in our graues in Peace. Our Peace is not compleat till wee shall Rest in <hi>Glorie;</hi> nor will our Faith bee satisfied, till it determine in Fruition, and wee are made partakers of that <hi>Beatitude,</hi> which yet we apprehend only in Beleefe. Then our Rest shall bee perfect, when this <hi>Quies</hi> shall be<g ref="char:EOLhyphen"/>come <hi>Acquiescentia,</hi> an Acquiescence, which is the highest Degree of <hi>Rest;</hi> the Delight and Content which arises from the Con<g ref="char:EOLhyphen"/>templation and the possession of this <hi>Rest;</hi> when Christ shall say vnto vs, as the Pro<g ref="char:EOLhyphen"/>phet <hi>Dauid</hi> does vnto Him in the Psalme, <hi>Arise and come into thy rest.</hi>
+                        <note place="margin">Psal. 132.8.</note>
+                     </p>
+                     <p>To finish all.
+<note place="margin">Conclusion.</note> The <hi>Rest</hi> which <hi>Dauid</hi> in this Wish aimes at, lies higher than the Graue: Heauen is the Resting place hee meanes: and that Celestiall Rest in Glorie, which will succeed the Resurre<g ref="char:EOLhyphen"/>ction of the <hi>Iust,</hi> is the Period of Chri<g ref="char:EOLhyphen"/>stian Faith. The attaining of this <hi>Rest</hi> shall be the End of my Flight and your Ap<g ref="char:EOLhyphen"/>plication.</p>
+                     <pb n="29" facs="tcp:177036:42"/>
+                     <p>I shall perswade well, and you apply pro<g ref="char:EOLhyphen"/>fitably, if wee rightly prepare our selues for this <hi>Rest.</hi> As the Body hath Preparatiues to procure <hi>Rest;</hi> so hath the Soule too; but the Ingredients are quite different. Physi<g ref="char:EOLhyphen"/>tians of the Body vse to prescribe <hi>Mandra<g ref="char:EOLhyphen"/>gora</hi> and drowzy <hi>Opium</hi> to call on sleepe. But the <hi>Great Physitian</hi> of our soules hath in his Gospell tempered our Preparatiue to <hi>Rest,</hi> with Actiue stirring Simples. The Cup hee giues vs is not a
+<note n="*" place="margin">
+                           <hi>Calix soporis.</hi> Esa. 51.22.</note>
+                        <hi>Cup of slumber,</hi> but of watchfulnesse, and the full <hi>Receipt, Vigilate &amp; orate, To watch, and to pray here,</hi>
+                        <note place="margin">Matth. 26.41.</note> that wee may <hi>Rest</hi> hereafter. A sleeping heauy Christian like the drowzy Bride<g ref="char:EOLhyphen"/>maids in the Gospell, may enioy that mis<g ref="char:EOLhyphen"/>chiefe which <hi>Dauid</hi> prayes against,
+<note place="margin">Psal. 13.3.</note>
+                        <hi>Sleepe in Death,</hi> but neuer <hi>Rest</hi> in <hi>Life.</hi> To preuent which <hi>Lethargie,</hi> and to lighten the soule of all impediments and dull obstructions, which may retard her Motion, 'tis fit be<g ref="char:EOLhyphen"/>fore wee take <hi>our Flight hence,</hi>
+                        <note place="margin">Psal. 39.13.</note>
+                        <hi>and be no more seene,</hi> wee take an exact suruay of the Conscience, <hi>Quò nullus hominum intrat,</hi>
+                        <note place="margin">
+                           <hi>August. in Psal.</hi> 54.</note>
+                        <hi>vbi nemo tecum est, vbi tu &amp; Deus;</hi> which close
+<pb n="30" facs="tcp:177036:43"/>Cabinet admits no scrutiny, no spectator but God, &amp; our selues: where if we finde a<g ref="char:EOLhyphen"/>ny weighty Crime that oppresses, or Secure sin that besots and stupifies the Soule, that we endeuor to expell that cold venome by the pretious Antidote of Repentance; that wee disburthen our selues by Confession, and by a deuour Sorrow throw out the dan<g ref="char:EOLhyphen"/>gerous lading.</p>
+                     <p>It was an Heathens aduice;
+<note place="margin">Seneca.</note>
+                        <hi>Nemo cum sarcinis enatat,</hi> an Encombred Man cannot swim. If we aduenture thorow the waters of Death, Natures Dead Sea, with such a Mill-stone hanging at our Neckes, as a Mortall sinne, wee must not hope to reco<g ref="char:EOLhyphen"/>uer the safe shoare, but drowne euerlasting<g ref="char:EOLhyphen"/>ly, and perish in that bottomlesse Gulfe. If wee hope to <hi>flie</hi> vp to our finall <hi>Rest,</hi> with such Manacles about vs, as the violence of hands, or such shackles as the transgressions of our feet, swift to pursue all occasions of sinne, how presumptuously doe wee tempt God, and delude our selues? When such a weight as Guilt,
+<note place="margin">Zach. 5.7.</note> or (in <hi>Zacharies</hi> phrase) <hi>such a Talent of Lead</hi> as sinne depresses and
+<pb n="31" facs="tcp:177036:43"/>holds vs downe, the powerfull Wings of the <hi>Cherubines</hi> shall neuer be able to lift vs vp from the Earth. Wee must therefore first shake off these Fetters, these Chaines, deuest our selues of this weight, and by applying the mercies of Christ to vs,
+<note place="margin">Psal. 55.22.</note>
+                        <hi>Cast</hi> the heauy <hi>burthen</hi> of our sinnes vpon him, who is willing to take them off vs. And then being alleuiated, lightned of our burthen, and capable of Flight, the Pro<g ref="char:EOLhyphen"/>phet DAVID will fit vs with Wings, <hi>The Wings of the Doue.</hi> These Wings, saith Saint <hi>Ambrose,</hi> are <hi>good Conditions,</hi>
+                        <note place="margin">
+                           <hi>Ambr. serm.</hi> 26.</note>
+                        <hi>habituall Vertues, Pennae nobis sunt boni mo<g ref="char:EOLhyphen"/>res:</hi> For this goodnesse must not be slight and superficiall, and Temporarie, but Constant and lasting to the end,
+<note place="margin">
+                           <hi>Id. lib.</hi> 3. <hi>de Virg. p.</hi> 32</note>
+                        <hi>Alarum remigium, non materialium compago pen<g ref="char:EOLhyphen"/>narum, sed continuus ordo bonorum facto<g ref="char:EOLhyphen"/>rum.</hi> They onely that continue to the end shall bee crowned with this <hi>Rest.</hi> Or else these <hi>Wings</hi> are our <hi>Prayers,</hi>
+                        <note place="margin">Genes. 28.12.</note> that like the Angels in <hi>Iacobs</hi> vision Ascen<g ref="char:EOLhyphen"/>ding and Descending, maintaine our traf<g ref="char:EOLhyphen"/>fique with Heauen: or (saith Saint <hi>Au<g ref="char:EOLhyphen"/>gustine</hi>)
+<pb n="32" facs="tcp:177036:44"/>they are <hi>Charitie</hi> to those that want, and forgiuenesse of such as haue of<g ref="char:EOLhyphen"/>fended vs;
+<note place="margin">August.</note> these (saith hee) are a paire of Wings to conuey vs to Heauen, <hi>Hae sunt duae alae orationis quibus volatur ad Deum, si illud quod committitur ignoscit delin<g ref="char:EOLhyphen"/>quenti, &amp; donat egenti.</hi> Or they are Re<g ref="char:EOLhyphen"/>pentance, which is the seale of our peace with GOD.
+<note place="margin">
+                           <hi>Hieron. lib.</hi> 2. <hi>Ep.</hi> 10. <hi>ad Rustic.</hi>
+                        </note>
+                        <hi>Assume pennas Columbae, &amp; voles, &amp; requiescas, &amp; clementissimo recon<g ref="char:EOLhyphen"/>cilieris Patri.</hi>
+                     </p>
+                     <p>In one word, these <hi>Wings</hi> are the qua<g ref="char:EOLhyphen"/>lities of the <hi>Doue.</hi> Mildnesse, and Sim<g ref="char:EOLhyphen"/>plicity, and Innocence, and Cleannesse, Properties that diuide the rich blessings both of Earth and Heauen;
+<note place="margin">Matth. 5.5, 8.</note> for <hi>the Meeke shall possesse the Earth, and the Cleane in heart shall see GOD.</hi> A mildnesse which furie cannot exasperate, nor heighten to a Reuenge; but rather is content to suf<g ref="char:EOLhyphen"/>fer wrong, or to remit it, or by a seces<g ref="char:EOLhyphen"/>sion desires to shunne both the Person that did the Iniury,
+<note place="margin">
+                           <hi>Ambr. lib.</hi> 1. <hi>offie. cap.</hi> 21. <hi>Lorin. in Bsa.</hi> 54.</note> and all prouocation of returning it together. (Which Saint <hi>Am<g ref="char:EOLhyphen"/>brose,</hi> and other Writers collect to haue
+<pb n="33" facs="tcp:177036:44"/>been the intent of <hi>Dauid</hi> in this auoidance of his vniust Enemies.)</p>
+                     <p>A Simplicity neuer adulterate or dis<g ref="char:EOLhyphen"/>colour'd with Hypocrisie: A pure white Innocence, neuer fullied with Leui<g ref="char:EOLhyphen"/>tie, nor bespotted with foule action. Rare and certaine capacities to wing our soules, and to promote our flight into the Tabernacle of <hi>Rest.</hi> When the <hi>Psal<g ref="char:EOLhyphen"/>mist</hi> askes the question,
+<note place="margin">Psal. 15.1.</note>
+                        <hi>Who shall abide in thy Tabernacle, or who shall dwell in thy holy Hill?</hi> The demand is answered pun<g ref="char:EOLhyphen"/>ctually, <hi>Hee that hath cleane Hands,</hi>
+                        <note place="margin">Psal. 24.4.</note>
+                        <hi>and a pure Heart.</hi>
+                     </p>
+                     <p>When wee are fethered with this hap<g ref="char:EOLhyphen"/>pie Plume, when our Prayers haue ob<g ref="char:EOLhyphen"/>tained these graces from God to quali<g ref="char:EOLhyphen"/>fie our last Flight, which shall end in <hi>Glorie,</hi> and then with their aduanced <hi>Wings</hi> beat at the Gates of Heauen for Entrance, those <hi>euerlasting Doores</hi> shall <hi>open</hi> themselues wide to our Admission, and the <hi>King of Glorie, Christ</hi> himselfe vouchsafe to receiue vs, sealing vnto vs
+<pb n="34" facs="tcp:177036:45"/>our Eternall <hi>Quietus est,</hi> as hee did to that poore Accountant in the Gospell, <hi>Well done good and faithfull seruant,</hi>
+                        <note place="margin">Matth. 25.21.</note>
+                        <hi>Enter thou into the Ioy of thy Lord.</hi>
+                     </p>
+                     <closer>Amen.</closer>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:177036:45"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
